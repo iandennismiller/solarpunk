@@ -1,6 +1,5 @@
 # Website Makefile
 
--include _dev/data.mk
 -include _dev/docker.mk
 -include _dev/jekyll.mk
 
@@ -14,7 +13,7 @@ all: docker-clean docker-build publish
 
 publish:
 	rsync -av --delete --checksum _site/ docs/
-	git add -A
+	git add docs
 	git commit -am "automatic publish"
 	git push
 
