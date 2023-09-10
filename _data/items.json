@@ -1,0 +1,11 @@
+{
+  "Item1": {
+    "ENTRYTYPE": "item",
+    "ID": "Item1",
+    "abstract": "This is but an item",
+    "author": "Somebody Wrote this",
+    "issn": "03048608 14328798",
+    "title": "The First Item",
+    "year": "2023"
+  }
+}

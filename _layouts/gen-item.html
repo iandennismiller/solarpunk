@@ -8,9 +8,11 @@ image:      /media/thumb-big.jpg
 
 <article class="post">
 
+    {% comment %}
     <header class="post-header">
       <h1 class="post-title">📄 {{ site.data.items[id].title }}</h1>
     </header>
+    {% endcomment %}
   
     <div class="post-content">
 
@@ -21,76 +23,21 @@ image:      /media/thumb-big.jpg
             </div>
         
             <div style="margin-bottom: 1em;">
-                <span class="var">keywords</span>
-                <span class="value">
-                    {% assign keyword_list = this.keywords | split: ", " %}
-                    {% for keyword in keyword_list %}
-                        {% assign keyword_slug = keyword | slugify %}
-                        <a href="{{ site.baseurl }}/topics/{{ keyword_slug }}.html"><span class="keyword">🔗&nbsp;{{ keyword }} ({{ site.data.keywords[keyword_slug].items.size }})</span></a>
-                    {% endfor %}
-                </span>
-            </div>
-        
-            <div style="margin-bottom: 1em;">
                 <div>
                     <span class="var">author</span>
-                    <span class="value">
-                        {% assign author_list = this.author | split: " and " %}
-                        {% for author in author_list %}
-                            <a href="{{ site.baseurl }}/authors/{{ author|slugify }}.html">👤&nbsp;{{ author }}</a>
-                        {% endfor %}
-                    </span>
+                    <span class="value">👤 {{ this.author }}</span>
                 </div>
 
                 <div>
                     <span class="var">year</span>
                     <span class="value">⏰ {{ this.year }}</span>
                 </div>
-
-                <div>
-                    <span class="var">journal</span>
-                    <span class="value">
-                        <a href="{{ site.baseurl }}/journals/{{this.journal|slugify}}.html">📚 {{ this.journal }}</a>
-                    </span>
-                </div>
-        
+       
                 <div>
                     <span class="var">issn</span>
                     <span class="value">🗄 {{ this.issn }}</span>
                 </div>
-               
-                <div>
-                    <span class="var">volume</span>
-                    <span class="value">{{ this.volume }}</span>
-                </div>
         
-                <div>
-                    <span class="var">number</span>
-                    <span class="value">{{ this.number }}</span>
-                </div>
-        
-                <div>
-                    <span class="var">page</span>
-                    <span class="value">{{ this.pages }}</span>
-                </div>
-        
-                <div>
-                    <span class="var">doi</span>
-                    <span class="value">
-                        <a href="https://dx.doi.org/{{ this.doi }}">📄 {{ this.doi }} ⤴</a>
-                    </span>
-                </div>
-        
-                <div>
-                    <span class="var">citedbycount</span>
-                    <span class="value">{{ this.citedbycount }}</span>
-                </div>
-        
-            </div>
-        
-            <div>
-                <span class="var">download</span>
-                <span class="value"><a href="{{ site.baseurl }}/bibtex/{{ this.ID|downcase }}.bib">🔖 [BibTeX]</a></span>
             </div>
         
         </div>
