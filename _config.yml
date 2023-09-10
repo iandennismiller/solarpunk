@@ -8,8 +8,8 @@
 # Site settings
 title: Solarpunk
 description: > # this means to ignore newlines until next variable
-  Data Items Site transforms data into pages
-license: "cc 2022 Me"
+  Solarpunk literature and other resources
+license: "cc 2023 Ian Dennis Miller"
 
 # Links
 baseurl: "/solarpunk" # the subpath of your site, e.g. /blog

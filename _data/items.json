@@ -1,11 +1,22 @@
 {
-  "Item1": {
+  "chambers2021": {
     "ENTRYTYPE": "item",
-    "ID": "Item1",
-    "abstract": "This is but an item",
-    "author": "Somebody Wrote this",
-    "issn": "03048608 14328798",
-    "title": "The First Item",
-    "year": "2023"
+    "ID": "chambers2021",
+    "abstract": "On a moon called Panga where AI and robots are a distant myth, Dex is an adventurous and friendly tea monk who travels the human-populated areas of their moon meeting villagers and townsfolk. Dex custom-blends tea to fit the people's needs and personalities, and they confide their misgivings to the monk. One day Dex, seeking a change in their routine, travels into the wild and meets a robot named Splendid Speckled Mosscap and they are thrown into a road-trip with a question on their minds: 'What do people need?'",
+    "author": "Becky Chambers",
+    "title": "A Psalm for the Wild-Built",
+    "year": "2021",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/PsalmforWild.jpg",
+    "url": "https://en.wikipedia.org/wiki/A_Psalm_for_the_Wild-Built"
+  },
+  "robinson2020": {
+    "ENTRYTYPE": "item",
+    "ID": "robinson2020",
+    "abstract": "The Ministry for the Future is a climate fiction ('cli-fi') novel by American science fiction writer Kim Stanley Robinson published in 2020. Set in the near future, the novel follows a subsidiary body, established under the Paris Agreement, whose mission is to act as an advocate for the world's future generations of citizens as if their rights are as valid as the present generation's. While they pursue various ambitious projects, the effects of climate change are determined to be the most consequential. The plot primarily follows Mary Murphy, the head of the titular Ministry for the Future, and Frank May, an American aid worker traumatized by experiencing a deadly heat wave in India. Many chapters are devoted to other (mostly anonymous) characters' accounts of future events, as well as their ideas about ecology, economics, and other subjects. ",
+    "author": "Kim Stanley Robinson",
+    "title": "The Ministry for the Future",
+    "year": "2020",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/The_Ministry_for_the_Future.png",
+    "url": "https://en.wikipedia.org/wiki/The_Ministry_for_the_Future"
   }
 }

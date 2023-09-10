@@ -17,18 +17,6 @@ publish:
 	git commit -am "automatic publish"
 	git push
 
-install:
-	rsync -acv --delete _site/ ~/www/
-
-new:
-	_bin/template.py
-
-artwork:
-	_bin/artwork.sh
-
-js:
-	java -jar ~/Library/Code/compiler.jar --js _site/js/main.js --js_output_file js/main.min.js
-
 requirements:
 	chmod 755 _bin/*
 	_bin/requirements.sh

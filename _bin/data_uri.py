@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# (cc) 2016 diamond-patterns
 
 import sys
 

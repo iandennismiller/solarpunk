@@ -1,5 +1,5 @@
 ---
-layout:     page-nosocial
+layout:     page
 image:      /media/thumb-big.jpg
 ---
 
@@ -19,6 +19,10 @@ image:      /media/thumb-big.jpg
         <div class="home">
 
             <div style="margin-bottom: 1em;">
+                <img src="{{ this.image }}">
+            </div>
+
+            <div style="margin-bottom: 1em;">
                 {{ this.abstract }}
             </div>
         
@@ -34,8 +38,8 @@ image:      /media/thumb-big.jpg
                 </div>
        
                 <div>
-                    <span class="var">issn</span>
-                    <span class="value">🗄 {{ this.issn }}</span>
+                    <span class="var">more</span>
+                    <span class="value">🗄 <a href="{{ this.url }}">{{ this.url }}</a></span>
                 </div>
         
             </div>
