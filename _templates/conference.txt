@@ -1,0 +1,13 @@
+---
+layout:     post
+category:   conference
+title:      {0}
+date:       {1}
+tags:       {2}
+image:      /media/thumb-big.jpg
+excerpt:    This blurb ends up in twitter and facebook cards.
+published:  false
+---
+
+I will be presenting BLAH at UPCOMING.
+

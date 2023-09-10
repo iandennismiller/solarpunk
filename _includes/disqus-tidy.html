@@ -1,0 +1,17 @@
+<script>
+var disqus_monitor = null;
+
+var disqus_hide = function() {
+  if ($("html #layout .nav-secondary").length > 0) {
+    $("html .disqus-footer__wrapper").css("display", "none");
+    $("html #layout .nav-secondary").css("display", "none");
+    clearTimeout(disqus_monitor);
+    console.log("CLEAR");
+  }
+  else {
+    console.log("waiting...");
+  }
+};
+
+disqus_monitor = setInterval(disqus_hide, 1000);
+</script>

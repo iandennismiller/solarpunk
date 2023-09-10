@@ -1,0 +1,15 @@
+---
+layout:     page
+category:   reports
+title:      {0}
+date:       {1}
+tags:       {2}
+image:      /media/thumb-big.jpg
+excerpt:    This blurb ends up in twitter and facebook cards.
+published:  false
+---
+
+
+
+{{%% include image-zoom-init.html %}}
+

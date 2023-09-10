@@ -1,0 +1,85 @@
+{
+  "achilli-giorgio": {
+    "articles": [
+      "Gerna1978DeterminationMethod"
+    ],
+    "id": "achilli-giorgio",
+    "keywords": [
+      "complement-fixation"
+    ],
+    "name": "Achilli, Giorgio"
+  },
+  "almeida-j-d": {
+    "articles": [
+      "Bingham1977StudiesVirus"
+    ],
+    "id": "almeida-j-d",
+    "keywords": [
+      "avian-infectious",
+      "bronchitis-virus",
+      "infectious-bronchitis"
+    ],
+    "name": "Almeida, J. D."
+  },
+  "amano-y": {
+    "articles": [
+      "Sugiyama1980HemagglutinationMice"
+    ],
+    "id": "amano-y",
+    "keywords": [],
+    "name": "Amano, Y."
+  },
+  "atherton-j-g": {
+    "articles": [
+      "Atherton1978TheCoronavirus"
+    ],
+    "id": "atherton-j-g",
+    "keywords": [
+      "organ-cultures"
+    ],
+    "name": "Atherton, J. G."
+  },
+  "bhatt-p-n": {
+    "articles": [
+      "Bhatt1977ExperimentalCoronavirus"
+    ],
+    "id": "bhatt-p-n",
+    "keywords": [],
+    "name": "Bhatt, P. N."
+  },
+  "bhatt-pravin-n": {
+    "articles": [
+      "Bhatt1972CharacterizationGroup"
+    ],
+    "id": "bhatt-pravin-n",
+    "keywords": [
+      "antigenically-related"
+    ],
+    "name": "Bhatt, Pravin N."
+  },
+  "bingham-r-w": {
+    "articles": [
+      "Bingham1977StudiesVirus",
+      "Bingham1975HaemagglutinationCoronavirus"
+    ],
+    "id": "bingham-r-w",
+    "keywords": [
+      "avian-infectious",
+      "bronchitis-virus",
+      "infectious-bronchitis"
+    ],
+    "name": "Bingham, R. W."
+  },
+  "bond-clifford-w": {
+    "articles": [
+      "Bond1979PathogenicAV",
+      "Robb1979PathogenicViruses",
+      "Robb1979PathogenicJhmv"
+    ],
+    "id": "bond-clifford-w",
+    "keywords": [
+      "electron-microscopy"
+    ],
+    "name": "Bond, Clifford W."
+  }
+}

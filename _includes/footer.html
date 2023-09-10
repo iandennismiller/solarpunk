@@ -1,0 +1,63 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        {% comment %}
+        <ul class="contact-list">
+          <!-- <li>{{ site.title }}</li> -->
+          <li>
+            {% include icon-www.html url=site.url text=site.url %}
+          </li>
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+        {% endcomment %}
+      </div>
+
+      <div class="footer-col footer-col-2">
+
+        {% comment %}
+        <img src="{% include icon-logo-png.html %}" width="50" style="margin-top: 6px;" />
+
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+        </ul>
+        {% endcomment %}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        
+        <div>{{ site.description }}</div>
+
+        <!-- <div id="blogpost">
+          Latest article: 
+          {% for post in site.posts limit:1 %}
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          {% endfor %}
+        </div> -->
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div id="content-license">
+    <a href="{{ site.baseurl }}/license/">{{ site.license }}</a>
+  </div>
+
+</footer>
+
+{% include google-analytics.html %}

@@ -1,0 +1,10 @@
+{% if page.permalink == '/index.html' %}
+  {% capture scripts %}
+  {% include main.min.js %}
+  {% endcapture %}
+  <script>
+  {{ scripts }}
+  </script>
+{% else %}
+  <script src="{{ site.baseurl }}/js/main.min.js"></script>
+{% endif %}

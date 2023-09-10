@@ -1,0 +1,41 @@
+---
+layout:     page-nosocial
+title:      Topics
+permalink:  /topics/
+menu:       main
+image:      /media/thumb-big.jpg
+excerpt:    CoV Index - Coronavirus Science Topics Over Time
+---
+
+<div class="home">
+    {% assign decades = "1980s, 1990s, early 2000s, late 2000s, early 2010s, late 2010s, 2020" | split: ", " %}
+
+    <p>
+        Over time, the topics studied in Coronavirus Science have shifted.
+        This page enables you to browse topics over the decades.
+    </p>
+
+    <div>
+        {% for decade_str in decades %}
+            <a href="#{{ decade_str | slugify }}"><span class="keyword">{{ decade_str }}</span></a>
+        {% endfor %}
+    </div>
+
+    {% for decade_str in decades %}
+        {% assign decade_terms = site.data.keywords_time[decade_str] %}
+
+        <a name="{{ decade_str|slugify }}"></a>
+        <h2>{{ decade_str }}</h2>
+
+        <div>
+            {% for keyword in decade_terms %}
+            {% assign keyword_slug = keyword | slugify %}
+            {% if site.data.keywords[keyword_slug].articles.size > 0 %}
+            <a href="{{site.baseurl}}/topics/{{ keyword_slug }}.html">
+                <span class="keyword">🔗 {{ keyword }} ({{ site.data.keywords[keyword_slug].articles.size }})</span>
+            </a>
+            {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>

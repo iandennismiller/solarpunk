@@ -1,0 +1,21 @@
+---
+layout:     post
+category:   posters
+title:      {0}
+date:       {1}
+tags:       {2}
+image:      /media/thumb-big.jpg
+excerpt:    This blurb ends up in twitter and facebook cards.
+published:  false
+---
+
+CITATION
+
+[The paper is linked here.]()
+[There is also a poster about this paper.]()
+
+> Abstract
+
+<!-- - Here is the bibtex -->
+
+

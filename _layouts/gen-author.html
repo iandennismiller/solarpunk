@@ -1,0 +1,58 @@
+---
+layout:     page-nosocial-rendered
+image:      /media/thumb-big.jpg
+---
+
+{% assign id = page.id %}
+{% assign this = site.data.authors[id] %}
+
+<article class="post">
+
+    <header class="post-header">
+      <h1 class="post-title">👤 {{ this.name }}</h1>
+    </header>
+  
+    <div class="post-content">
+
+        <div class="home">
+
+            <h2>Keywords</h2>
+       
+            <div>
+
+                {% for keyword_key in this.keywords %}
+                {% assign keyword_slug = keyword_key | downcase %}
+                <a href="{{ site.baseurl }}/topics/{{ keyword_slug }}.html">
+                    <span class="keyword">🔗 {{ site.data.keywords[keyword_slug].term }} ({{ site.data.keywords[keyword_slug].articles.size }})</span>
+                </a>
+                {% endfor %}
+
+            </div>
+
+
+            <h2>Articles ({{ this.articles.size }})</h2>
+       
+            <ul id="results">
+            {% for article_key in this.articles %}
+            <li>
+                <a class="search-result" href="{{ site.baseurl }}/articles/{{ article_key|downcase }}.html">{{ site.data.articles[article_key].title }}</a>
+        
+                <p>
+                    {% assign author_list = site.data.articles[article_key].author | split: " and " %}
+                    {% for author in author_list %}
+                        <a href="{{ site.baseurl }}/authors/{{author|slugify}}.html">👤&nbsp;{{ author }}</a>
+                    {% endfor %}
+                    ⏰&nbsp;{{ site.data.articles[article_key].year }}
+                    
+                    <a href="{{ site.baseurl }}/journals/{{site.data.articles[article_key].journal|slugify}}.html">📚 {{ site.data.articles[article_key].journal }}</a>
+                </p>
+                
+            </li>
+            {% endfor %}
+            </ul>
+        
+        </div>        
+
+    </div>
+ 
+</article>

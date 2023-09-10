@@ -1,0 +1,26 @@
+---
+layout:     default
+title:      A Data Items Website
+permalink:  /
+image:      /media/thumb-big.jpg
+excerpt:    A Data Items Website
+---
+
+<div class="home">
+
+    <div align="center">
+        <form method="GET" action="{{ site.baseurl }}/search/">
+            <input id="search" name="q" type="text">
+            <input id="search_button" type="submit" value="🔍">
+        </form>    
+    </div>
+
+    <div style="margin-top: 1em; text-align: center;">
+        Indexing <b>{{ site.data.generator_queue.items.size }}</b>items.
+    </div>
+
+</div>
+
+<script>
+document.getElementById("search").focus();
+</script>

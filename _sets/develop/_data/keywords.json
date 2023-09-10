@@ -1,0 +1,49 @@
+{
+  "antigenically-related": {
+    "articles": [
+      "Bhatt1972CharacterizationGroup",
+      "Bradburne1970AntigenicCoronaviruses",
+      "Hovi1979OcGroups",
+      "Pedersen1978AntigenicSpecies",
+      "Pensaert1974CharacteristicsPigs"
+    ],
+    "id": "antigenically-related",
+    "term": "antigenically related"
+  },
+  "apparent-molecular": {
+    "articles": [
+      "Hierholzer1972Protein",
+      "Hierholzer1976PurificationE",
+      "Sturman1977CharacterizationGels",
+      "Sturman1977CharacterizationAnalysis",
+      "Tannock1977TheOc"
+    ],
+    "id": "apparent-molecular",
+    "term": "apparent molecular"
+  },
+  "avian-infectious": {
+    "articles": [
+      "Bingham1977StudiesVirus",
+      "Bradburne1970AntigenicCoronaviruses",
+      "Coria1973ProtectiveAerosol",
+      "Davies1979ComparisonCoronaviruses",
+      "Garwes1975IdentificationCoronaviruses",
+      "Macnaughton1978RibonucleoproteinLikeParticles"
+    ],
+    "id": "avian-infectious",
+    "term": "avian infectious"
+  },
+  "bronchitis-virus": {
+    "articles": [
+      "Bingham1977StudiesVirus",
+      "Bradburne1970AntigenicCoronaviruses",
+      "Coria1973ProtectiveAerosol",
+      "Davies1979ComparisonCoronaviruses",
+      "Garwes1975IdentificationCoronaviruses",
+      "Macnaughton1978RibonucleoproteinLikeParticles",
+      "Schochetman1977PresenceVirus"
+    ],
+    "id": "bronchitis-virus",
+    "term": "bronchitis virus"
+  }
+}

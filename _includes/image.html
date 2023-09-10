@@ -1,0 +1,10 @@
+<table class="image">
+<caption align="bottom">{{ include.description }}</caption>
+<tr><td>
+    {% if include.height and include.width %}
+        <img src="{{ include.url }}" alt="{{ include.description }}" width="{{ include.width }}" height="{{ include.height }}"/>
+    {% else %}
+        <img src="{{ include.url }}" alt="{{ include.description }}"/>
+    {% endif %}
+</td></tr>
+</table>

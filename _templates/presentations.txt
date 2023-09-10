@@ -1,0 +1,23 @@
+---
+layout:     post
+category:   presentations
+title:      {0}
+date:       {1}
+tags:       {2}
+image:      /media/thumb-big.jpg
+excerpt:    This blurb ends up in twitter and facebook cards.
+published:  false
+---
+
+CITATION
+
+[The slides are linked here.]()
+[The event also has a listing for this presentation.]()
+
+![Example Slide]()
+
+> Abstract
+
+<!-- - Here is the bibtex -->
+
+

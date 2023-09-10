@@ -1,0 +1,20 @@
+---
+layout:     post
+category:   research
+title:      {0}
+date:       {1}
+tags:       {2}
+image:      /media/thumb-big.jpg
+excerpt:    This blurb ends up in twitter and facebook cards.
+listed:     false
+published:  false
+---
+
+[The project website is linked here.]()
+
+## Overview
+
+## Screenshot
+
+![Example Slide]()
+

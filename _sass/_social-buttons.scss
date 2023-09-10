@@ -1,0 +1,28 @@
+
+.share-button {
+    border: 1px solid gray;
+    padding: 3px;
+    font-size: 10pt;
+    background: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    margin-right: 1em;
+}
+
+.share-button:visited {
+    color: rgb(0, 0, 0);
+}
+
+.share-button:hover {
+    text-decoration: none;
+    background: rgb(220, 220, 220);
+}
+
+.share-button .icon {
+    vertical-align: text-bottom;
+}
+
+.social {
+  margin-bottom: 1em;
+}
