@@ -1,6 +1,0 @@
----
----
-{% capture styles %}
-{% include styles.scss %}
-{% endcapture %}
-{{ styles | scssify }}

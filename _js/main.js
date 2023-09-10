@@ -11,8 +11,4 @@ permalink: /js/main.js
 {% include_relative _lib/random_bucket.js %}
 {% include_relative _lib/zoomify.min.js %}
 {% include_relative _lib/youtube-autoresizer.js %}
-
-{% include_relative _lib/lunr.js %}
-{% include_relative _lib/pako.min.js %}
 {% include_relative _lib/slugify.js %}
-{% include_relative _src/search.js %}

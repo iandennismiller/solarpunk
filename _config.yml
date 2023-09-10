@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Data Items Site
+title: Solarpunk
 description: > # this means to ignore newlines until next variable
   Data Items Site transforms data into pages
 license: "cc 2022 Me"
@@ -53,34 +53,3 @@ page_gen:
     template: 'gen-item'
     name: 'ID'
     dir: 'items'
-
-  # - index_files: false
-  #   data: 'articles'
-  #   template: 'gen-article'
-  #   name: 'ID'
-  #   dir: 'articles'
-
-  # - index_files: false
-  #   data: 'articles'
-  #   template: 'gen-bibtex'
-  #   name: 'ID'
-  #   dir: 'bibtex'
-  #   extension: 'bib'
-
-  # - index_files: false
-  #   data: 'authors'
-  #   template: 'gen-author'
-  #   name: 'id'
-  #   dir: 'authors'
-
-  # - index_files: false
-  #   data: 'keywords'
-  #   template: 'gen-topic'
-  #   name: 'id'
-  #   dir: 'topics'
-
-  # - index_files: false
-  #   data: 'journals'
-  #   template: 'gen-journal'
-  #   name: 'id'
-  #   dir: 'journals'

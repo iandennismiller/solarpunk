@@ -14,11 +14,6 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="{{ site.baseurl }}/about/">About</a>
-        <a class="page-link" href="{{ site.baseurl }}/bibtex/">BibTeX</a>
-        <a class="page-link" href="{{ site.baseurl }}/blog/">Blog</a>
-        <a class="page-link" href="{{ site.baseurl }}/topics/">Topics</a>
-        {% comment %}
         {% for my_page in site.pages %}
           {% if my_page.title %}
             {% if my_page.menu == 'main' %}
@@ -26,7 +21,6 @@
             {% endif %}
           {% endif %}
         {% endfor %}
-        {% endcomment %}
       </div>
     </nav>
 

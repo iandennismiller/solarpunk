@@ -8,15 +8,17 @@ excerpt:    A Data Items Website
 
 <div class="home">
 
-    <div align="center">
-        <form method="GET" action="{{ site.baseurl }}/search/">
-            <input id="search" name="q" type="text">
-            <input id="search_button" type="submit" value="🔍">
-        </form>    
-    </div>
+    <ul>
+        {% for item in site.data.items %}
+          <li>
+            <a role="button" class="btn btn-primary" href="{{ site.baseurl }}/items/{{ item[1].ID|downcase }}.html">[View]</a>
+            {{ item[1].author }}. ({{ item[1].year }}). {{ item[1].title }}.
+          </li>
+        {% endfor %}
+    </ul>
 
     <div style="margin-top: 1em; text-align: center;">
-        Indexing <b>{{ site.data.generator_queue.items.size }}</b>items.
+        Indexing <b>{{ site.data.items.size }}</b> items.
     </div>
 
 </div>
