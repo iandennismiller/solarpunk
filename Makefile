@@ -21,4 +21,4 @@ requirements:
 	chmod 755 _bin/*
 	_bin/requirements.sh
 
-.PHONY: js
+.PHONY: js docs
