@@ -14,7 +14,7 @@ all: docker-clean docker-build publish
 publish:
 	rsync -av --delete --checksum _site/ docs/
 	git add docs
-	git commit -am "automatic publish"
+	git commit -m "automatic publish"
 	git push
 
 requirements:

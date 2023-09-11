@@ -14,36 +14,36 @@ image:      /media/thumb-big.jpg
     </header>
     {% endcomment %}
   
+    <div style="margin-bottom: 1em; float: right;">
+        <img src="{{ this.image }}">
+    </div>
+
+    <div style="margin-bottom: 1em;">
+        <div>
+            <span class="var">author</span>
+            <span class="value">{{ this.author }}</span>
+        </div>
+
+        <div>
+            <span class="var">year</span>
+            <span class="value">{{ this.year }}</span>
+        </div>
+
+        <div>
+            <span class="var">more</span>
+            <span class="value"><a href="{{ this.url }}">{{ this.url }}</a></span>
+        </div>
+
+    </div>
+
     <div class="post-content">
 
         <div class="home">
 
             <div style="margin-bottom: 1em;">
-                <img src="{{ this.image }}">
-            </div>
-
-            <div style="margin-bottom: 1em;">
                 {{ this.abstract }}
             </div>
-        
-            <div style="margin-bottom: 1em;">
-                <div>
-                    <span class="var">author</span>
-                    <span class="value">👤 {{ this.author }}</span>
-                </div>
-
-                <div>
-                    <span class="var">year</span>
-                    <span class="value">⏰ {{ this.year }}</span>
-                </div>
-       
-                <div>
-                    <span class="var">more</span>
-                    <span class="value">🗄 <a href="{{ this.url }}">{{ this.url }}</a></span>
-                </div>
-        
-            </div>
-        
+                
         </div>
 
     </div>

@@ -18,5 +18,55 @@
     "year": "2020",
     "image": "https://upload.wikimedia.org/wikipedia/en/0/05/The_Ministry_for_the_Future.png",
     "url": "https://en.wikipedia.org/wiki/The_Ministry_for_the_Future"
+  },
+  "robinson2017": {
+    "ENTRYTYPE": "item",
+    "ID": "robinson2017",
+    "abstract": "The novel occurs mostly in a fictional future New York City, permanently inundated by two major rises in seawater levels caused by climate change. Most of New York City is permanently underwater, however, people still live in the upper floors of the buildings, much like in the Venice of today. Robinson has said that the novel does not take place in the same 'future history' as his novel 2312. Most of Manhattan below 46th Street is flooded, and has earned the nickname 'SuperVenice'. Several of the book's characters live in the MetLife Tower on 23rd Street, which the tenant association has outfitted with flood-prevention mechanisms and boat storage. Robinson chose to prominently feature the building as it was designed to resemble the St Mark's Campanile in Venice. The affluent live in newly constructed skyscrapers in Uptown Manhattan and near The Cloisters, as both locations remain above water. Denver has replaced New York as the center of American finance and culture, and much of the United States has been deliberately abandoned by humans in order to make room for wildlife. Robinson has previously addressed sea level rise directly and indirectly in his works Aurora, 2312, and the Mars trilogy.",
+    "author": "Kim Stanley Robinson",
+    "title": "New York 2140",
+    "year": "2017",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/New_York_2140.jpg",
+    "url": "https://en.wikipedia.org/wiki/New_York_2140"
+  },
+  "callenbach1975": {
+    "ENTRYTYPE": "item",
+    "ID": "callenbach1975",
+    "abstract": "Ecotopia: The Notebooks and Reports of William Weston is a utopian novel by Ernest Callenbach, published in 1975. The society described in the book is one of the first ecological utopias and was influential on the counterculture and the green movement in the 1970s and thereafter. The author himself claimed that the society he depicted in the book is not a true utopia (in the sense of a perfect society), but, while guided by societal intentions and values, was imperfect and in-process. Callenbach said of the story, in relation to Americans: 'It is so hard to imagine anything fundamentally different from what we have now. But without these alternate visions, we get stuck on dead center. And we'd better get ready. We need to know where we'd like to go.'",
+    "author": "Ernest Callenbach",
+    "title": "Ecotopia",
+    "year": "1975",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Ecotopia%2C_first_edition.jpg",
+    "url": "https://en.wikipedia.org/wiki/Ecotopia"
+  },
+  "piercy1976": {
+    "ENTRYTYPE": "item",
+    "ID": "piercy1976",
+    "abstract": "Woman on the Edge of Time is a 1976 novel by American writer Marge Piercy. It is considered a classic of utopian speculative science fiction as well as a feminist classic. The novel was originally published by Alfred A. Knopf. Piercy draws on several inspirations to write this novel such as utopian studies, technoscience, socialization, and female fantasies. One of Piercy's main inspirations for her utopian novels is Plato's Republic. Piercy describes the novel as, 'if only…' Piercy even compares Woman on the Edge of Time and another one of her utopian novels He, She, and It when discussing the themes and inspirations behind it.",
+    "author": "Marge Piercy",
+    "title": "Woman on the Edge of Time",
+    "year": "1976",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Woman_on_the_Edge_of_Time_%28book_cover%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/Woman_on_the_Edge_of_Time"
+  },
+  "leguin1985": {
+    "ENTRYTYPE": "item",
+    "ID": "leguin1985",
+    "abstract": "Always Coming Home is a 1985 science fiction novel by American writer Ursula K. Le Guin. It is in parts narrative, pseudo-textbook and pseudo-anthropologist's record. It describes the life and society of the Kesh people, a cultural group who live in the distant future long after modern society has collapsed. It is presented by Pandora, who seems to be an anthropologist or ethnographer from the readers' contemporary culture, or a culture very close to it. Pandora describes the book as a protest against contemporary civilization, which the Kesh call 'the Sickness of Man'.",
+    "author": "Ursula K. Le Guin",
+    "title": "Always Coming Home",
+    "year": "1985",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Achnavalleyorig.jpg",
+    "url": "https://en.wikipedia.org/wiki/Always_Coming_Home"
+  },
+  "leguin1974": {
+    "ENTRYTYPE": "item",
+    "ID": "leguin1974",
+    "abstract": "The Dispossessed (in later printings titled The Dispossessed: An Ambiguous Utopia) is a 1974 anarchist utopian science fiction novel by American writer Ursula K. Le Guin, one of her seven Hainish Cycle novels. It is one of a small number of books to win all three Hugo, Locus and Nebula Awards for Best Novel. It achieved a degree of literary recognition unusual for science fiction due to its exploration of themes such as anarchism and revolutionary societies, capitalism, utopia, individualism, and collectivism. It features the development of the mathematical theory underlying a fictional ansible, a device capable of faster-than-light communication (it can send messages without delay, even between star systems) that plays a critical role in the Hainish Cycle. The invention of the ansible places the novel first in the internal chronology of the Hainish Cycle, although it was the fifth published.",
+    "author": "Ursula K. Le Guin",
+    "title": "The Dispossessed",
+    "year": "1974",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/TheDispossed%281stEdHardcover%29.jpg",
+    "url": "https://en.wikipedia.org/wiki/The_Dispossessed"
   }
 }
