@@ -14,10 +14,6 @@ image:      /media/thumb-big.jpg
     </header>
     {% endcomment %}
   
-    <div style="margin-bottom: 1em; float: right;">
-        <img src="{{ this.image }}">
-    </div>
-
     <div style="margin-bottom: 1em;">
         <div>
             <span class="var">author</span>
@@ -34,6 +30,10 @@ image:      /media/thumb-big.jpg
             <span class="value"><a href="{{ this.url }}">{{ this.url }}</a></span>
         </div>
 
+    </div>
+
+    <div style="margin-bottom: 1em; float: right;">
+        <img src="{{ this.image }}">
     </div>
 
     <div class="post-content">

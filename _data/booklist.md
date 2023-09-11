@@ -28,11 +28,12 @@
 - [ ] Nausicaa, Ghibli
 - [ ] Princess Mononoke, Ghibli
 - [x] The Dispossessed by Ursula K LeGuin
-- [ ] Murray Bookchin’s Post Scarcity Anarchism
-- [ ] The Fifth Sacred Thing (maybe sad); Starhawk
-- [ ] Walkaway by Corey Doctorow
-- [ ] Sunshine State, written by the person who came up with the word solarpunk. In the collection Everything Change, which is free online.
-- [ ] Murray Bookchin and the ecology of freedom
+- [x] Murray Bookchin’s Post Scarcity Anarchism
+- [x] The Fifth Sacred Thing (maybe sad); Starhawk
+- [x] Walkaway by Corey Doctorow
+- [ ] Sunshine State, written by the person who came up with the word solarpunk.
+- [x] In the collection Everything Change, which is free online.
+- [x] Murray Bookchin and the ecology of freedom
 - [ ] The Solar Economy by Herman Scheer
 - [ ] Dan Simmons Hyperion Saga
 - [ ] Voyage from Yesteryear

@@ -68,5 +68,55 @@
     "year": "1974",
     "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/TheDispossed%281stEdHardcover%29.jpg",
     "url": "https://en.wikipedia.org/wiki/The_Dispossessed"
+  },
+  "bookchin1971": {
+    "ENTRYTYPE": "item",
+    "ID": "bookchin1971",
+    "abstract": "Bookchin's 'post-scarcity anarchism' is an economic system based on social ecology, libertarian municipalism, and an abundance of fundamental resources. Bookchin argues that post-industrial societies have the potential to be developed into post-scarcity societies, and can thus imagine 'the fulfillment of the social and cultural potentialities latent in a technology of abundance'. The self-administration of society is now made possible by technological advancement and, when technology is used in an ecologically sensitive manner, the revolutionary potential of society will be much changed. Bookchin claims that the expanded production made possible by the technological advances of the twentieth century were in the pursuit of market profit and at the expense of the needs of humans and of ecological sustainability. The accumulation of capital can no longer be considered a prerequisite for liberation, and the notion that obstructions such as the state, social hierarchy, and vanguard political parties are necessary in the struggle for freedom of the working classes can be dispelled as a myth.",
+    "author": "Murray Bookchin",
+    "title": "Post-Scarcity Anarchism",
+    "year": "1971",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Post_Scarcity_Anarchism%2C_1971_edition.JPG",
+    "url": "https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism"
+  },
+  "starhawk1993": {
+    "ENTRYTYPE": "item",
+    "ID": "starhawk1993",
+    "abstract": "The novel describes a world set in the year 2048 after a catastrophe which has fractured the United States into several nations. The protagonists live in San Francisco and have evolved in the direction of Ecotopia, reverting to a sustainable economy, using wind power, local agriculture, and the like. San Francisco is presented as a mostly pagan city where the streets have been torn up for gardens and streams, no one starves or is homeless, and the city's defense council consists primarily of nine elderly women who 'listen and dream'. The novel describes 'a utopia where women are leading societies but are doing so with the consent of men.' To the south, an overtly theocratic Christian fundamentalist nation has evolved and plans to wage war against the San Franciscans. The novel explores the events before and during the ensuing struggle between the two nations, pitting utopia and dystopia against each other.The story is primarily told from the points of view of 98-year-old Maya, her nominal granddaughter Madrone, and her grandson Bird. Through these and other characters, the story explores many elements from ecofeminism and ecotopian fiction.",
+    "author": "Starhawk",
+    "title": "The Fifth Sacred Thing",
+    "year": "1993",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/5thsacredthing.jpg",
+    "url": "https://en.wikipedia.org/wiki/The_Fifth_Sacred_Thing"
+  },
+  "doctorow2017": {
+    "ENTRYTYPE": "item",
+    "ID": "doctorow2017",
+    "abstract": "In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or 'default reality,' shortened to 'Default.' The improvement of 3D printers over current real-world versions, as well as the invention of machines that can search for and reprocess waste or discarded materials, the characters no longer have need of Default for the basic essentials of life, such as food, clothing, and shelter. As more and more people choose to 'walkaway', the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements. One thing that the elite are especially interested in is scientific research that the walkaways are carrying out which could potentially put an end to death, which results in general revolution within Default and eventual war with walkaway settlements.",
+    "author": "Cory Doctorow",
+    "title": "Walkaway",
+    "year": "2017",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/65/Walkaway_%28a_Cory_Doctorow_novel%29_book_cover.jpg",
+    "url": "https://en.wikipedia.org/wiki/Walkaway_(Doctorow_novel)"
+  },
+  "milkoreit2016": {
+    "ENTRYTYPE": "item",
+    "ID": "milkoreit2016",
+    "abstract": "Everything Change features twelve stories from our 2016 Climate Fiction Short Story Contest along with a foreword by science fiction legend and contest judge Kim Stanley Robinson and an interview with renowned climate fiction author Paolo Bacigalupi. Everything Change is free to download, read, and share.",
+    "author": "edited by Manjana Milkoreit, Meredith Martinez & Joey Eschrich",
+    "title": "Everything Change: An Anthology of Climate Fiction",
+    "year": "2016",
+    "image": "http://climateimag.wpengine.com/wp-content/uploads/2015/09/clifi-contest.jpg",
+    "url": "https://climateimagination.asu.edu/everything-change/"
+  },
+  "bookchin1982": {
+    "ENTRYTYPE": "item",
+    "ID": "bookchin1982",
+    "abstract": "The Ecology of Freedom: The Emergence and Dissolution of Hierarchy is a 1982 book by the American libertarian socialist and ecologist Murray Bookchin, in which the author describes his concept of social ecology, the idea that ecological problems are caused by human social problems and can be solved only by reorganizing society along ecological and ethical lines. The book is considered Bookchin's magnum opus, but it has also been criticized as utopian. Bookchin is critical of the class-centered analysis of Marxism and simplistic anti-state forms of libertarianism and liberalism and wished to present what he saw was a more complex view of societies. Bookchin writes that, 'My use of the word hierarchy in the subtitle of this work is meant to be provocative. There is a strong theoretical need to contrast hierarchy with the more widespread use of the words class and State; careless use of these terms can produce a dangerous simplification of social reality. To use the words hierarchy, class, and State interchangeably, as many social theorists do, is insidious and obscurantist. This practice, in the name of a 'classless' or 'libertarian' society, could easily conceal the existence of hierarchical relationships and a hierarchical sensibility, both of which – even in the absence of economic exploitation or political coercion – would serve to perpetuate unfreedom.'",
+    "author": "Murray Bookchin",
+    "title": "The Ecology of Freedom",
+    "year": "1982",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Ecology_of_Freedom.jpg",
+    "url": "https://en.wikipedia.org/wiki/The_Ecology_of_Freedom"
   }
 }
