@@ -22,6 +22,8 @@ After all, if this is a basic question, then it is going to be asked frequently.
 
 I also want to acknowledge [the fantastic Solarpunk book list](https://best-sci-fi-books.com/16-best-solarpunk-books/) compiled by Dan Livingston.
 
+Finally, the Reddit Solarpunk community maintains [a list of Solarpunk Fiction](https://old.reddit.com/r/solarpunk/wiki/media/books_fiction).
+
 ## Contributing
 
 You can help by suggesting new resources.
