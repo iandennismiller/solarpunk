@@ -20,6 +20,8 @@ For one, we must be pretty early if basic questions like this are unanswered.
 It seemed like this particular question was answered really well by the community and I wanted to write it down for posterity.
 After all, if this is a basic question, then it is going to be asked frequently.
 
+I also want to acknowledge [the fantastic Solarpunk book list](https://best-sci-fi-books.com/16-best-solarpunk-books/) compiled by Dan Livingston.
+
 ## Contributing
 
 You can help by suggesting new resources.

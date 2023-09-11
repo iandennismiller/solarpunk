@@ -40,14 +40,14 @@
 - [x] Island by Aldous Huxley
 - [x] Glass and Gardens: Solarpunk Summers by Sarena Ulibarri – 2018
 - [x] A Door Into Ocean; by Joan Slonczewski – 1986
-- [ ] Remnant Population by Elizabeth Moon – 1996
-- [ ] Pacific Edge by Kim Stanley Robinson – 1990
-- [ ] Suncatcher: Seven Days in the Sky by Alia Gee – 2014
-- [ ] Way Station by Clifford D. Simak – 1963
-- [ ] Orion Shall Rise by Poul Anderson – 1983
-- [ ] Sunvault edited by Phoebe Wagner and Brontë Christopher Wieland – 2017
-- [ ] Legacy by Jesikah Sundin – 2014
-- [ ] The Summer Prince by Alaya Dawn Johnson – 2013
+- [x] Remnant Population by Elizabeth Moon – 1996
+- [x] Pacific Edge by Kim Stanley Robinson – 1990
+- [x] Suncatcher: Seven Days in the Sky by Alia Gee – 2014
+- [x] Way Station by Clifford D. Simak – 1963
+- [x] Orion Shall Rise by Poul Anderson – 1983
+- [x] Sunvault edited by Phoebe Wagner and Brontë Christopher Wieland – 2017
+- [x] Legacy by Jesikah Sundin – 2014
+- [x] The Summer Prince by Alaya Dawn Johnson – 2013
 
 ## Other resources
 
