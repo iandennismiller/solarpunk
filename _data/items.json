@@ -118,5 +118,55 @@
     "year": "1982",
     "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Ecology_of_Freedom.jpg",
     "url": "https://en.wikipedia.org/wiki/The_Ecology_of_Freedom"
+  },
+  "scheer2004": {
+    "ENTRYTYPE": "item",
+    "ID": "scheer2004",
+    "abstract": "An account of how the global economy can and must replace its dependence on fossil fuels with solar and renewable energy - and the enormous and multiple benefits which will follow. The author explodes the myth that fossil fuel is cheaper and maps the road towards renewable energy that will create a genuinely sustainable global economy - and the only secure prospects for future prosperity that can be shared worldwide. Scheer's book offers an alternative programme to what he believes is the fruitless and doomed process of the Kyoto Protocol on climate change and international negotiations to reach a consensus with the existing fossil-fuel lobby.",
+    "author": "Hermann Scheer",
+    "title": "The Solar Economy",
+    "year": "2004",
+    "image": "https://www.oreilly.com/api/v2/epubs/9781853838354/files/images/9781853838354_cover.jpg",
+    "url": "https://archive.org/details/solareconomyrene0000sche"
+  },
+  "hogan1982": {
+    "ENTRYTYPE": "item",
+    "ID": "hogan1982",
+    "abstract": "The story opens early in the 21st century, as an automated space probe is being prepared for a mission to explore habitable exoplanets in the Alpha Centauri system. However, Earth appears destined for a global war which the probe designers fear that humanity may not survive. It appears that the only chance for the human species is to reestablish itself far away from the conflict but there is no time left for a crewed expedition to escape Earth. The team, led by Henry B. Congreve, change their mission priority and quickly modify the design to carry several hundred sets of electronically coded human genetic data. Also included in this mission of embryo space colonization is a databank of human knowledge, robots to convert the data into genetic material and care for the children and construct habitats when the destination is reached, and a number of artificial wombs. The probe's designers name it the Kuan-Yin after the bodhisattva of childbirth and compassion. Shortly after the launch, global war indeed breaks out and several decades later, Earthbound humanity is united under an authoritarian government. It is this government that receives a radio message from the fledgling 'Chironian' civilization revealing that the probe found a habitable planet (Chiron) and that the first generation of children have been raised successfully. ",
+    "author": "James P. Hogan",
+    "title": "Voyage from Yesteryear",
+    "year": "1982",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Voyage_from_Yesteryear.jpg",
+    "url": "https://en.wikipedia.org/wiki/Voyage_from_Yesteryear"
+  },
+  "huxley1962": {
+    "ENTRYTYPE": "item",
+    "ID": "huxley1962",
+    "abstract": "Island is a 1962 utopian manifesto and novel by English writer Aldous Huxley, the author's final work before his death in 1963. Although it has a plot, the plot largely serves to further conceptual explorations rather than setting up and resolving conventional narrative tension. It is the account of Will Farnaby, a cynical journalist who is shipwrecked on the fictional island of Pala. Island is Huxley's utopian counterpart to his most famous work, the 1932 dystopian novel Brave New World.",
+    "author": "Aldous Huxley",
+    "title": "Island",
+    "year": "1962",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Island.JPG",
+    "url": "https://en.wikipedia.org/wiki/Island_(Huxley_novel)"
+  },
+  "ulibarri2018": {
+    "ENTRYTYPE": "item",
+    "ID": "ulibarri2018",
+    "abstract": "Solarpunk is a type of optimistic science fiction that imagines a future founded on renewable energies. The seventeen stories in this volume are not boring utopias—they grapple with real issues such as the future and ethics of our food sources, the connection or disconnection between technology and nature, and the interpersonal conflicts that arise no matter how peaceful the world is. In these pages you'll find a guerilla art installation in Milan, a murder mystery set in a weather manipulation facility, and a world where you are judged by the glow of your solar nanite implants. From an opal mine in Australia to the seed vault at Svalbard, from a wheat farm in Kansas to a crocodile ranch in Malaysia, these are stories of adaptation, ingenuity, and optimism for the future of our world and others. For readers who are tired of dystopias and apocalypses, these visions of a brighter future will be a breath of fresh air.",
+    "author": "Sarena Ulibarri",
+    "title": "Glass and Gardens: Solarpunk Summers",
+    "year": "2018",
+    "image": "https://www.worldweaverpress.com/uploads/2/3/6/5/23652778/s852059612874479876_p147_i2_w640.jpeg",
+    "url": "https://www.worldweaverpress.com/store/p147/Glass_and_Gardens%3A_Solarpunk_Summers.html"
+  },
+  "item1": {
+    "ENTRYTYPE": "item",
+    "ID": "item1",
+    "abstract": "A Door into Ocean is a 1986 feminist science fiction novel by Joan Slonczewski. The novel's themes include ecofeminism and nonviolent revolution, as well as Slonczewski's own knowledge in the field of biology. The novel is set in the future, on the fictional planet of Shora, a moon covered by water. The inhabitants of this planet, known as Sharers, are all female. Sharers use genetic engineering to control the ecology of their planet. They are peaceful beings who 'share' — that is, they have a spiritual and linguistic union with each other and treat everyone equally. The Sharers take egalitarianism for granted because they share and they lack the concept of 'power-over', making their society one in which conflicts are settled without violence. When they are being threatened by an outside power, they resist nonviolently because they refuse to believe in power. Thus, the Sharers can never be subdued by force. The Sharer way of nonviolence is more than spiritual. It is based on historical realities of nonviolent resistance. The author based the events of their novel on much historical research, particularly the writings of peace historian Gene Sharp. The novel includes much biological research into the evolution of innate capacities for nonviolence. For example, the participation of children in nonviolent resistance draws on deep instinctual responses found in humans and related mammals.",
+    "author": "Joan Slonczewski",
+    "title": "A Door into Ocean",
+    "year": "1986",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/A-door-into-oceanJPG.JPG",
+    "url": "https://en.wikipedia.org/wiki/A_Door_into_Ocean"
   }
 }

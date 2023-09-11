@@ -34,12 +34,12 @@
 - [ ] Sunshine State, written by the person who came up with the word solarpunk.
 - [x] In the collection Everything Change, which is free online.
 - [x] Murray Bookchin and the ecology of freedom
-- [ ] The Solar Economy by Herman Scheer
+- [x] The Solar Economy by Herman Scheer
 - [ ] Dan Simmons Hyperion Saga
-- [ ] Voyage from Yesteryear
-- [ ] Island by Aldous Huxley
-- [ ] Glass and Gardens: Solarpunk Summers by Sarena Ulibarri – 2018
-- [ ] A Door Into Ocean; by Joan Slonczewski – 1986
+- [x] Voyage from Yesteryear
+- [x] Island by Aldous Huxley
+- [x] Glass and Gardens: Solarpunk Summers by Sarena Ulibarri – 2018
+- [x] A Door Into Ocean; by Joan Slonczewski – 1986
 - [ ] Remnant Population by Elizabeth Moon – 1996
 - [ ] Pacific Edge by Kim Stanley Robinson – 1990
 - [ ] Suncatcher: Seven Days in the Sky by Alia Gee – 2014
