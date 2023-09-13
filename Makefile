@@ -8,7 +8,7 @@ help:
 	@echo
 	@grep -h -e '^\w\S\+\:' Makefile _dev/*.mk | sed 's/://g' | cut -d ' ' -f 1
 
-all: docker-clean docker-build publish
+all: clean build publish
 	@echo ok
 
 publish:
@@ -17,8 +17,16 @@ publish:
 	git commit -m "automatic publish"
 	git push
 
-requirements:
-	chmod 755 _bin/*
-	_bin/requirements.sh
+serve:
+	docker run --rm --name jekyll -it -p 4000:4000 -v $$PWD:/srv/jekyll iandennismiller/jekyll:latest /bin/bash -c 'bundle exec jekyll serve --host 0.0.0.0'
+
+clean:
+	docker run --rm --name jekyll -it -v $$PWD:/srv/jekyll iandennismiller/jekyll:latest /bin/bash -c 'bundle exec jekyll clean'
+
+incremental: clean
+	docker run --rm --name jekyll -it -v $$PWD:/srv/jekyll iandennismiller/jekyll:latest /bin/bash -c 'JEKYLL_ENV=production bundle exec jekyll build --incremental'
+
+build:
+	docker run --rm --name jekyll -it -v $$PWD:/srv/jekyll iandennismiller/jekyll:latest /bin/bash -c 'JEKYLL_ENV=production bundle exec jekyll build'
 
 .PHONY: js docs

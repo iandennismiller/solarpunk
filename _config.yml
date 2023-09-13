@@ -17,7 +17,7 @@ url: "https://iandennismiller.github.io" # the base hostname & protocol for your
 permalink: none
 
 # include/exclude files
-include: ["_pages", "_root", "_js"]
+include: ["_pages", "_root"]
 exclude: ["docs", "Readme.md", "Todo.md", "Makefile", "vendor", "Gemfile", "Gemfile.lock"]
 
 # Build settings
@@ -38,12 +38,6 @@ gems:
 
 # GitHub
 # github_username: iandennismiller
-
-# Google Analytics
-# google_analytics_id: 
-
-# Disqus comments
-# disqus: 
 
 page_gen-dirs: false
 
