@@ -2,11 +2,12 @@
 layout:     page-nosocial
 title:      About
 permalink:  /about/
-menu:       main
+menu:       none
 image:      /media/thumb-big.jpg
 excerpt:    a collection of Solarpunk readings and other media
 ---
 
+{% comment %}
 On September 9, 2023 the Reddit user [Real-Twice](https://old.reddit.com/user/Real-Twice) [submitted a post](https://old.reddit.com/r/solarpunk/comments/16e2jyx/what_is_the_definitive_solarpunk_work_of_fiction/) asking:
 
 > What Is the definitive solarpunk work of fiction?
@@ -25,6 +26,8 @@ I also want to acknowledge [the fantastic Solarpunk book list](https://best-sci-
 Finally, the Reddit Solarpunk community maintains [a list of Solarpunk Fiction](https://old.reddit.com/r/solarpunk/wiki/media/books_fiction).
 
 ## Contributing
+
+{% endcomment %}
 
 You can help by suggesting new resources.
 This particular online resource is a collection of Solarpunk readings and other media.

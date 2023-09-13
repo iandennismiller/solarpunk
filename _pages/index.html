@@ -8,40 +8,44 @@ excerpt:    Solarpunk literature and other resources
 
 <div class="home">
 
+  <h2>Welcome</h2>
+
+  <p>
+    Here you'll find resources and literature that explore the emerging Solarpunk genre.
+  </p>
+
+  <h2><a href="{{ site.baseurl }}/aesthetic/">Solarpunk Aesthetics Book List</a></h2>
+
+  <p>
+    This book list contains major works that articulate the Solarpunk aesthetic.
+    In these books, we discover compelling visions that inspire us to dream of Solarpunk futures.
+    You can browse titles, read summaries, and find links for more information.
+  </p>
+
+  <p>
+    Indexing <b>{{ site.data.aesthetic.size }}</b> items.
+  </p>
+
+  <h2><a href="{{ site.baseurl }}/practice/">Solarpunk Practices</a></h2>
+
+  <p>
+    In practice, Solarpunk is expressed as techniques that build harmony among humans and nature.
+  </p>
+
+  <p>
+    Indexing <b>{{ site.data.practice.size }}</b> items.
+  </p>
+
+  <h2><a href="http://www.re-des.org/a-solarpunk-manifesto/">A Solarpunk Manifesto</a></h2>
+
   <div style="font-style: italic;">
     <p>
       <b>Solarpunk</b> is a movement in speculative fiction, art, fashion, and activism that seeks to answer and embody the question “what does a sustainable civilization look like, and how can we get there?”
     </p>
   
     <p>
-      <a href="http://www.re-des.org/a-solarpunk-manifesto/">-- A Solarpunk Manifesto</a>
+      <a href="http://www.re-des.org/a-solarpunk-manifesto/">... continue reading at re-des.org</a>
     </p>
   </div>
 
-  <h2>Reading List</h2>
-
-  <p>
-    The Reddit Solarpunk community has suggested the following books as good examples of the genre. The list is in no particular order.
-  </p>
-
-    <ul>
-        {% for item in site.data.items %}
-          <li>
-            <a href="{{ site.baseurl }}/items/{{ item[1].ID|downcase }}.html">
-              {{ item[1].title }}.
-            </a>
-            ({{ item[1].year }}).
-            {{ item[1].author }}.
-          </li>
-        {% endfor %}
-    </ul>
-
-    <div style="margin-top: 1em; text-align: center;">
-        Indexing <b>{{ site.data.items.size }}</b> items.
-    </div>
-
 </div>
-
-<script>
-document.getElementById("search").focus();
-</script>

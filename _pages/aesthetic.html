@@ -1,0 +1,44 @@
+---
+layout:     page-nosocial
+title:      Aesthetic
+permalink:  /aesthetic/
+menu:       main
+image:      /media/thumb-big.jpg
+excerpt:    a collection of Solarpunk readings and other media
+---
+
+<p>
+  This book list contains major Solarpunk writings.
+  Click on any title to browse the cover, read a summary, and find links for more information.
+</p>
+
+<ul>
+  {% for item in site.data.aesthetic %}
+    <li>
+      <a href="{{ site.baseurl }}/aesthetic/{{ item.id|downcase }}.html">
+        {{ item.title }}.
+      </a>
+      ({{ item.year }}).
+      {{ item.author }}.
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Our Future</h2>
+
+<p>
+  The aesthetic of Solarpunk is expressed in this short anime.
+  Click to watch.
+</p>
+
+<p>
+  <a href="/solarpunk/our-future/">
+    <img src="/solarpunk/media/our-future.jpeg">
+  </a>  
+</p>
+
+<h2>Sources</h2>
+
+<p>
+  These titles were suggested by online communities including <a href="https://old.reddit.com/r/solarpunk/wiki/media/books_fiction">Reddit /r/solarpunk</a> and Dan Livingston's <a href="https://best-sci-fi-books.com/16-best-solarpunk-books/">Solarpunk Book List</a>.
+</p>

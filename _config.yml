@@ -48,8 +48,13 @@ gems:
 page_gen-dirs: false
 
 page_gen:
-  - index_files: false
-    data: 'items'
+  - data: 'aesthetic'
+    name: 'id'
     template: 'gen-item'
-    name: 'ID'
-    dir: 'items'
+    dir: 'aesthetic'
+    index_files: false
+  - data: 'practice'
+    name: 'id'
+    template: 'gen-item'
+    dir: 'practice'
+    index_files: false

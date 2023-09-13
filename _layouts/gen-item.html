@@ -3,31 +3,22 @@ layout:     page
 image:      /media/thumb-big.jpg
 ---
 
-{% assign id = page.ID %}
-{% assign this = site.data.items[id] %}
-
 <article class="post">
 
-    {% comment %}
-    <header class="post-header">
-      <h1 class="post-title">📄 {{ site.data.items[id].title }}</h1>
-    </header>
-    {% endcomment %}
-  
     <div style="margin-bottom: 1em;">
         <div>
             <span class="var">author</span>
-            <span class="value">{{ this.author }}</span>
+            <span class="value">{{ page.author }}</span>
         </div>
 
         <div>
             <span class="var">year</span>
-            <span class="value">{{ this.year }}</span>
+            <span class="value">{{ page.year }}</span>
         </div>
 
         <div>
             <span class="var">more</span>
-            <span class="value"><a href="{{ this.url }}">{{ this.url }}</a></span>
+            <span class="value"><a href="{{ page.more }}">{{ page.more }}</a></span>
         </div>
 
     </div>
@@ -37,11 +28,11 @@ image:      /media/thumb-big.jpg
         <div class="home">
 
             <div>
-                <img src="{{ this.image }}" width="30%" style="margin-bottom: 1em; margin-left: 1em; float: right;">
+                <img src="{{ page.image }}" width="30%" style="margin-bottom: 1em; margin-left: 1em; float: right;">
             </div>
         
             <div style="margin-bottom: 1em;">
-                {{ this.abstract }}
+                {{ page.abstract }}
             </div>
                 
         </div>
