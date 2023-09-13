@@ -1,10 +1,10 @@
 ---
-layout:     page-nosocial
+layout:     page
 title:      Practice
 permalink:  /practice/
 menu:       main
 image:      /media/thumb-big.jpg
-excerpt:    a collection of Solarpunk readings and other media
+excerpt:    Solarpunk is expressed as techniques that build harmony among humans and nature.
 ---
 
 In practice, Solarpunk is expressed as techniques that build harmony among humans and nature.
