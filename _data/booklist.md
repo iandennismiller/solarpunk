@@ -72,11 +72,11 @@
 ## City
 
 - [x] Arcology, the City in the Image of Man - by Pablo Solari
-- [ ] Biophilic Cities: Integrating Nature into Urban Design and Planning - by Tim Beatley
-- [ ] Building Community Food Webs - by Ken Meter
-- [ ] Building the Cycling City: The Dutch Blueprint for Urban Vitality - by Melissa Bruntlett
-- [ ] Design for an Empathic World: Reconnecting People, Nature, and Self - by Sim Van der Ryn
-- [ ] From the Ground Up - Local Efforts to Create Resilient Cities - by Alison Sant
+- [x] Biophilic Cities: Integrating Nature into Urban Design and Planning - by Tim Beatley
+- [x] Building Community Food Webs - by Ken Meter
+- [x] Building the Cycling City: The Dutch Blueprint for Urban Vitality - by Melissa Bruntlett
+- [x] Design for an Empathic World: Reconnecting People, Nature, and Self - by Sim Van der Ryn
+- [x] From the Ground Up - Local Efforts to Create Resilient Cities - by Alison Sant
 - [ ] The Guide to Greening Cities - by Sadhu Aufochs
 - [ ] Human Transit: How Clearer Thinking about Public Transit Can Enrich Our Communities and Our Lives - by Jarrett Walker
 - [ ] A Pattern Language: Towns, Buildings, Construction - by Christopher Alexander, Sara Ishikawa, and Murray Silverstein
