@@ -1,0 +1,25 @@
+---
+layout:     page
+title:      City
+permalink:  /city/
+menu:       main
+image:      /media/thumb-big.jpg
+excerpt:    The city is a community and place where Solarpunk ideas can be applied.
+---
+
+<p>
+  The city is a community and place where Solarpunk ideas can be applied.
+  These books explore the city as a place for Solarpunk practice. 
+</p>
+
+<ul>
+  {% for item in site.data.city %}
+    <li>
+      <a href="{{ site.baseurl }}/city/{{ item.id|downcase }}.html">
+        {{ item.title }}.
+      </a>
+      ({{ item.year }}).
+      {{ item.author }}.
+    </li>
+  {% endfor %}
+</ul>

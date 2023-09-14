@@ -48,3 +48,8 @@ page_gen:
     template: 'gen-item'
     dir: 'theory'
     index_files: false
+  - data: 'city'
+    name: 'id'
+    template: 'gen-item'
+    dir: 'city'
+    index_files: false

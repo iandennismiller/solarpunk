@@ -26,4 +26,14 @@
     "image": "https://www.oreilly.com/api/v2/epubs/9781853838354/files/images/9781853838354_cover.jpg",
     "more": "https://archive.org/details/solareconomyrene0000sche"
   },
+  {
+    "id": "solarpunk2019",
+    "abstract": "Solarpunk is a movement in speculative fiction, art, fashion, and activism that seeks to answer and embody the question 'what does a sustainable civilization look like, and how can we get there?'",
+    "author": "The Solarpunk Collective",
+    "title": "A Solarpunk Manifesto",
+    "year": "2019",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Solarpunk_Flag.jpg",
+    "more": "http://www.re-des.org/a-solarpunk-manifesto/"
+  },
+
 ]
