@@ -16,6 +16,9 @@
 <loc>https://iandennismiller.github.io/solarpunk/practice/</loc>
 </url>
 <url>
+<loc>https://iandennismiller.github.io/solarpunk/theory/</loc>
+</url>
+<url>
 <loc>https://iandennismiller.github.io/solarpunk/vision/</loc>
 </url>
 <url>
@@ -40,9 +43,6 @@
 <loc>https://iandennismiller.github.io/solarpunk/aesthetic/leguin1974.html</loc>
 </url>
 <url>
-<loc>https://iandennismiller.github.io/solarpunk/aesthetic/bookchin1971.html</loc>
-</url>
-<url>
 <loc>https://iandennismiller.github.io/solarpunk/aesthetic/starhawk1993.html</loc>
 </url>
 <url>
@@ -50,12 +50,6 @@
 </url>
 <url>
 <loc>https://iandennismiller.github.io/solarpunk/aesthetic/milkoreit2016.html</loc>
-</url>
-<url>
-<loc>https://iandennismiller.github.io/solarpunk/aesthetic/bookchin1982.html</loc>
-</url>
-<url>
-<loc>https://iandennismiller.github.io/solarpunk/aesthetic/scheer2004.html</loc>
 </url>
 <url>
 <loc>https://iandennismiller.github.io/solarpunk/aesthetic/hogan1982.html</loc>
@@ -98,5 +92,14 @@
 </url>
 <url>
 <loc>https://iandennismiller.github.io/solarpunk/practice/street2018.html</loc>
+</url>
+<url>
+<loc>https://iandennismiller.github.io/solarpunk/theory/bookchin1971.html</loc>
+</url>
+<url>
+<loc>https://iandennismiller.github.io/solarpunk/theory/bookchin1982.html</loc>
+</url>
+<url>
+<loc>https://iandennismiller.github.io/solarpunk/theory/scheer2004.html</loc>
 </url>
 </urlset>
