@@ -26,4 +26,49 @@
     "image": "https://www.chelseagreen.com/wp-content/uploads/9781603586443.jpg",
     "more": "https://www.chelseagreen.com/product/the-community-food-forest-handbook/"
   },
+  {
+    "id": "uncapher2012",
+    "abstract": "You probably spend hundreds of dollars watering your yard, but there is an easy way to save money and resources—by collecting rain to reuse in front and backyards. In Creating Rain Gardens, water conservation experts Cleo Woelfle-Erskine and Apryl Uncapher walk you through the entire process, with step-by-step instructions for designing and building swales, French drains, rain gardens, and ephemeral ponds. From soil preparation, planting, troubleshooting, and maintenance, to selecting palettes of water-loving plants that provide four-season interest and a habitat for wildlife, Creating Rain Gardens covers everything you need to create a beautiful rain garden at home.",
+    "author": "Apryl Uncapher",
+    "title": "Creating Rain Gardens: Capturing the Rain for Your Own Water-Efficient Garden",
+    "year": "2012",
+    "image": "/solarpunk/media/covers/uncapher2012.jpg",
+    "more": "https://www.hachettebookgroup.com/titles/apryl-uncapher/creating-rain-gardens/9781604693973/?lens=timber-press"
+  },
+  {
+    "id": "mudge2014",
+    "abstract": "While this concept of “forest farming” may seem like an obscure practice, history indicates that much of humanity lived and sustained itself from tree-based systems in the past; only recently have people traded the forest for the field.  The good news is that this is not an either-or scenario; forest farms can be most productive in places where the plow is not: on steep slopes, and in shallow soils. It is an invaluable practice to integrate into any farm or homestead, especially as the need for unique value-added products and supplemental income becomes more and more important for farmers.",
+    "author": "Steve Gabriel and Ken Mudge",
+    "title": "Farming the Woods: An Integrated Permaculture Approach to Growing Food and Medicinals in Temperate Forests",
+    "year": "2014",
+    "image": "/solarpunk/media/covers/mudge2014.jpg",
+    "more": "https://www.chelseagreen.com/product/farming-the-woods/"
+  },
+  {
+    "id": "penniman2018",
+    "abstract": "Some of our most cherished sustainable farming practices have roots in African wisdom. Yet, discrimination and violence against African-American farmers has led to their decline from 14 percent of all growers in 1920 to less than 2 percent today, with a corresponding loss of over 14 million acres of land.  Further, Black communities suffer disproportionately from illnesses related to lack of access to fresh food and healthy natural ecosystems. Soul Fire Farm, cofounded by author, activist, and farmer Leah Penniman, is committed to ending racism and injustice in our food system. Through innovative programs such as the Black-Latinx Farmers Immersion, a sliding-scale farmshare CSA, and Youth Food Justice leadership training, Penniman is part of a global network of farmers working to increase farmland stewardship by people of color, restore Afro-indigenous farming practices, and end food apartheid. <br/> And now, with Farming While Black, Penniman extends that work by offering the first comprehensive manual for African-heritage people ready to reclaim their rightful place of dignified agency in the food system. This one-of-a-kind guide provides readers with a concise “how-to” for all aspects of small-scale farming",
+    "author": "Leah Penniman",
+    "title": "Farming While Black: Soul Fire Farm's Practical Guide to Liberation on the Land",
+    "year": "2018",
+    "image": "https://images.squarespace-cdn.com/content/v1/5b3a6705e74940e70f1609f9/1530560410673-SUBWBX68BYK24K73AW0V/FarmingWhileBlack_cover_lores.jpg?format=2500w",
+    "more": "https://www.farmingwhileblack.org/about-the-book"
+  },
+  {
+    "id": "osentowski2015",
+    "abstract": "In this groundbreaking book, Jerome Osentowski, one of North America’s most accomplished permaculture designers, presents a wholly new approach to a very old horticultural subject. In The Forest Garden Greenhouse, he shows how bringing the forest garden indoors is not only possible, but doable on unlikely terrain and in cold climates, using near-net-zero technology. Different from other books on greenhouse design and management, this book advocates for an indoor agriculture using permaculture design concepts—integration, multi-functions, perennials, and polycultures—that take season extension into new and important territory.",
+    "author": "Jerome Osentowski",
+    "title": "The Forest Garden Greenhouse: How to Design and Manage an Indoor Permaculture Oasis",
+    "year": "2015",
+    "image": "/solarpunk/media/covers/osentowski2015.jpg",
+    "more": "https://www.chelseagreen.com/product/the-forest-garden-greenhouse/"
+  },
+  {
+    "id": "hemenway2009",
+    "abstract": "The first edition of Gaia’s Garden sparked the imagination of America’s home gardeners, introducing permaculture’s central message: Working with nature, not against her, results in more beautiful, abundant, and forgiving gardens. This extensively revised and expanded second edition broadens the reach and depth of the permaculture approach for urban and suburban growers. <br/> Ecological gardening—which involves growing a wide range of edible and other useful plants—can be done on any scale. It’s fun and easy to create a “backyard ecosystem” by assembling communities of plants that can work cooperatively and perform a variety of functions, including: Building and maintaining soil fertility and structure; Catching and conserving water in the landscape; Providing habitat for beneficial insects, birds, and animals; Growing an edible “forest” that yields seasonal fruits, nuts, and other foods. <br/> This revised and updated edition also features a new chapter on urban permaculture, designed for people in cities and suburbs with limited growing space. Whatever size yard or garden you have to work with, you can apply basic permaculture principles to make it more diverse, more natural, more productive, and more beautiful. Best of all, once it’s established, an ecological garden will reduce or eliminate most of the work that’s needed to maintain the typical lawn and garden.",
+    "author": "Toby Hemenway",
+    "title": "Gaia's Garden: A Guide to Home-Scale Permaculture",
+    "year": "2009",
+    "image": "https://tobyhemenway.com/wp-content/uploads/2015/07/Gaias-Garden-570-buffer.png",
+    "more": "https://tobyhemenway.com/book/gaias-garden/"
+  },
 ]

@@ -57,11 +57,11 @@
 
 - [x] Bringing Nature Home - How You Can Sustain Wildlife with Native Plants - by Doug Tallamy
 - [x] The Community Food Forest Handbook - How to Plan, Organize, and Nurture Edible Gathering Places - by Catherine Bukowski and John Munsell
-- [ ] Creating Rain Gardens: Capturing the Rain for Your Own Water-Efficient Garden - by Apryl Uncapher
-- [ ] Farming the Woods - An Integrated Permaculture Approach to Growing Food and Medicinals in Temperate Forests - by Steve Gabriel and Ken Mudge
-- [ ] Farming While Black: Soul Fire Farm’s Practical Guide to Liberation on the Land - by Leah Penniman
-- [ ] The Forest Garden Greenhouse - How to Design and Manage an Indoor Permaculture Oasis - by Jerome Osentowski
-- [ ] Gaia’s Garden - by Toby Hemenway
+- [x] Creating Rain Gardens: Capturing the Rain for Your Own Water-Efficient Garden - by Apryl Uncapher
+- [x] Farming the Woods - An Integrated Permaculture Approach to Growing Food and Medicinals in Temperate Forests - by Steve Gabriel and Ken Mudge
+- [x] Farming While Black: Soul Fire Farm’s Practical Guide to Liberation on the Land - by Leah Penniman
+- [x] The Forest Garden Greenhouse - How to Design and Manage an Indoor Permaculture Oasis - by Jerome Osentowski
+- [x] Gaia’s Garden - by Toby Hemenway
 - [ ] The Holistic Orchard Tree Fruits and Berries the Biological Way - by Michael Phillips
 - [ ] Native American Gardening: Buffalobird-Woman’s Guide to Traditional Methods - by Gilbert Wilson
 - [ ] The New Organic Grower, 3rd Edition - A Master’s Manual of Tools and Techniques for the Home and Market Gardener - by Elliot Coleman
