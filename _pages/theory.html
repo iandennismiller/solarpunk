@@ -1,18 +1,21 @@
 ---
 layout:     page
-title:      Practice
-permalink:  /practice/
+title:      Theory
+permalink:  /theory/
 menu:       main
 image:      /media/thumb-big.jpg
 excerpt:    Solarpunk is expressed as techniques that build harmony among humans and nature.
 ---
 
-In practice, Solarpunk is expressed as techniques that build harmony among humans and nature.
+<p>
+  Solarpunk is a theory of change that is expressed in these works.
+  A set of principles and values guide us to build a better world.
+</p>
 
 <ul>
-  {% for item in site.data.practice %}
+  {% for item in site.data.theory %}
     <li>
-      <a href="{{ site.baseurl }}/practice/{{ item.id|downcase }}.html">
+      <a href="{{ site.baseurl }}/theory/{{ item.id|downcase }}.html">
         {{ item.title }}.
       </a>
       ({{ item.year }}).

@@ -30,15 +30,6 @@ gems:
   - jekyll-sitemap
   - jekyll-datapage-generator
 
-# Email
-# email: iandennismiller@gmail.com
-
-# Twitter
-# twitter_username: iandennismiller
-
-# GitHub
-# github_username: iandennismiller
-
 page_gen-dirs: false
 
 page_gen:
@@ -51,4 +42,9 @@ page_gen:
     name: 'id'
     template: 'gen-item'
     dir: 'practice'
+    index_files: false
+  - data: 'theory'
+    name: 'id'
+    template: 'gen-item'
+    dir: 'theory'
     index_files: false

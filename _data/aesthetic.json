@@ -63,15 +63,6 @@
     "more": "https://en.wikipedia.org/wiki/The_Dispossessed"
   },
   {
-    "id": "bookchin1971",
-    "abstract": "Bookchin's 'post-scarcity anarchism' is an economic system based on social ecology, libertarian municipalism, and an abundance of fundamental resources. Bookchin argues that post-industrial societies have the potential to be developed into post-scarcity societies, and can thus imagine 'the fulfillment of the social and cultural potentialities latent in a technology of abundance'. The self-administration of society is now made possible by technological advancement and, when technology is used in an ecologically sensitive manner, the revolutionary potential of society will be much changed. Bookchin claims that the expanded production made possible by the technological advances of the twentieth century were in the pursuit of market profit and at the expense of the needs of humans and of ecological sustainability. The accumulation of capital can no longer be considered a prerequisite for liberation, and the notion that obstructions such as the state, social hierarchy, and vanguard political parties are necessary in the struggle for freedom of the working classes can be dispelled as a myth.",
-    "author": "Murray Bookchin",
-    "title": "Post-Scarcity Anarchism",
-    "year": "1971",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/40/Post_Scarcity_Anarchism%2C_1971_edition.JPG",
-    "more": "https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism"
-  },
-  {
     "id": "starhawk1993",
     "abstract": "The novel describes a world set in the year 2048 after a catastrophe which has fractured the United States into several nations. The protagonists live in San Francisco and have evolved in the direction of Ecotopia, reverting to a sustainable economy, using wind power, local agriculture, and the like. San Francisco is presented as a mostly pagan city where the streets have been torn up for gardens and streams, no one starves or is homeless, and the city's defense council consists primarily of nine elderly women who 'listen and dream'. The novel describes 'a utopia where women are leading societies but are doing so with the consent of men.' To the south, an overtly theocratic Christian fundamentalist nation has evolved and plans to wage war against the San Franciscans. The novel explores the events before and during the ensuing struggle between the two nations, pitting utopia and dystopia against each other.The story is primarily told from the points of view of 98-year-old Maya, her nominal granddaughter Madrone, and her grandson Bird. Through these and other characters, the story explores many elements from ecofeminism and ecotopian fiction.",
     "author": "Starhawk",
@@ -97,24 +88,6 @@
     "year": "2016",
     "image": "http://climateimag.wpengine.com/wp-content/uploads/2015/09/clifi-contest.jpg",
     "more": "https://climateimagination.asu.edu/everything-change/"
-  },
-  {
-    "id": "bookchin1982",
-    "abstract": "The Ecology of Freedom: The Emergence and Dissolution of Hierarchy is a 1982 book by the American libertarian socialist and ecologist Murray Bookchin, in which the author describes his concept of social ecology, the idea that ecological problems are caused by human social problems and can be solved only by reorganizing society along ecological and ethical lines. The book is considered Bookchin's magnum opus, but it has also been criticized as utopian. Bookchin is critical of the class-centered analysis of Marxism and simplistic anti-state forms of libertarianism and liberalism and wished to present what he saw was a more complex view of societies. Bookchin writes that, 'My use of the word hierarchy in the subtitle of this work is meant to be provocative. There is a strong theoretical need to contrast hierarchy with the more widespread use of the words class and State; careless use of these terms can produce a dangerous simplification of social reality. To use the words hierarchy, class, and State interchangeably, as many social theorists do, is insidious and obscurantist. This practice, in the name of a 'classless' or 'libertarian' society, could easily conceal the existence of hierarchical relationships and a hierarchical sensibility, both of which – even in the absence of economic exploitation or political coercion – would serve to perpetuate unfreedom.'",
-    "author": "Murray Bookchin",
-    "title": "The Ecology of Freedom",
-    "year": "1982",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Ecology_of_Freedom.jpg",
-    "more": "https://en.wikipedia.org/wiki/The_Ecology_of_Freedom"
-  },
-  {
-    "id": "scheer2004",
-    "abstract": "An account of how the global economy can and must replace its dependence on fossil fuels with solar and renewable energy - and the enormous and multiple benefits which will follow. The author explodes the myth that fossil fuel is cheaper and maps the road towards renewable energy that will create a genuinely sustainable global economy - and the only secure prospects for future prosperity that can be shared worldwide. Scheer's book offers an alternative programme to what he believes is the fruitless and doomed process of the Kyoto Protocol on climate change and international negotiations to reach a consensus with the existing fossil-fuel lobby.",
-    "author": "Hermann Scheer",
-    "title": "The Solar Economy",
-    "year": "2004",
-    "image": "https://www.oreilly.com/api/v2/epubs/9781853838354/files/images/9781853838354_cover.jpg",
-    "more": "https://archive.org/details/solareconomyrene0000sche"
   },
   {
     "id": "hogan1982",
@@ -223,5 +196,5 @@
     "year": "2013",
     "image": "https://i0.wp.com/alayadawnjohnson.com/wp-content/uploads/2019/09/summerprince-hi.jpg?resize=360%2C570&ssl=1",
     "more": "https://alayadawnjohnson.com/book/the-summer-prince/"
-  }
+  },
 ]
