@@ -90,3 +90,12 @@ https://iandennismiller.github.io/solarpunk/
 - [ ] The Smart Growth Manual - by Andrés Duany, Jeff Speck, and Mike Lydon
 - [ ] Soft City: Building Density for Everyday Life - by David Sim
 - [ ] Sustainable Stormwater Management - A Landscape-Driven Approach to Planning and Design - by Thomas W. Liptan with J. David Sante
+
+## Setup Notes
+
+```bash
+mkdir gh-pages
+cd gh-pages
+git clone git@github.com:iandennismiller/solarpunk.git .
+git checkout origin/gh-pages -b gh-pages
+```
