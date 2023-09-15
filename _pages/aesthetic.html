@@ -1,25 +1,12 @@
 ---
 layout:     page
-title:      Aesthetic
+title:      Aesthetics
 permalink:  /aesthetic/
 menu:       main
 image:      /media/thumb-big.jpg
-excerpt:    In these books, we discover compelling visions that inspire us to dream of Solarpunk futures.
+excerpt:    This is a book list of Solarpunk literature. In these books, we discover compelling visions that inspire us to dream of Solarpunk futures.
 ---
 
-<p>
-  This book list contains major Solarpunk writings.
-  In these books, we discover compelling visions that inspire us to dream of Solarpunk futures.
-</p>
+<p>{{ page.excerpt }}</p>
 
-<ul>
-  {% for item in site.data.aesthetic %}
-    <li>
-      <a href="{{ site.baseurl }}/aesthetic/{{ item.id|downcase }}.html">
-        {{ item.title }}.
-      </a>
-      ({{ item.year }}).
-      {{ item.author }}.
-    </li>
-  {% endfor %}
-</ul>
+{% include item-list.html data=site.data.aesthetic dirname="aesthetic" %}

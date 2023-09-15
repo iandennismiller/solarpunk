@@ -1,25 +1,12 @@
 ---
 layout:     page
-title:      Theory
+title:      Theories
 permalink:  /theory/
 menu:       main
 image:      /media/thumb-big.jpg
-excerpt:    Solarpunk is expressed as techniques that build harmony among humans and nature.
+excerpt:    Solarpunk is a theory of change that is expressed in these works. A set of principles and values guide us to build a better world.
 ---
 
-<p>
-  Solarpunk is a theory of change that is expressed in these works.
-  A set of principles and values guide us to build a better world.
-</p>
+<p>{{ page.excerpt }}</p>
 
-<ul>
-  {% for item in site.data.theory %}
-    <li>
-      <a href="{{ site.baseurl }}/theory/{{ item.id|downcase }}.html">
-        {{ item.title }}.
-      </a>
-      ({{ item.year }}).
-      {{ item.author }}.
-    </li>
-  {% endfor %}
-</ul>
+{% include item-list.html data=site.data.theory dirname="theory" %}

@@ -1,0 +1,10 @@
+<ul>
+    {% for item in include.data %}
+       <li>
+            <a href="{{ site.baseurl }}/{{ include.dirname }}/{{ item.id|downcase }}.html">{{ item.title }}.</a>
+            ({{ item.year }}).
+            {{ item.author }}.
+       </li>
+    {% endfor %}
+</ul>
+  
