@@ -2,11 +2,9 @@
 
 https://iandennismiller.github.io/solarpunk/
 
-## Other resources
-
-- https://old.reddit.com/r/solarpunk/comments/16e2jyx/what_is_the_definitive_solarpunk_work_of_fiction/
-- https://best-sci-fi-books.com/16-best-solarpunk-books/
-- https://old.reddit.com/r/solarpunk/wiki/media/media_nonfiction
+I hope this will be a good reference for people seeking to discover Solarpunk readings.
+I began this project because I was inspired by online discussions that produced expertly-curated book lists of Solarpunk literature.
+I wanted to make something simple to navigate, while providing a little bit of information about each book.
 
 ## JSON template
 

@@ -12,7 +12,7 @@ all: clean build publish
 
 publish:
 	rsync -av --delete --checksum --exclude .git _site/ _gh-pages/
-	cd _gh-pages && git commit -am "automatic publish" && git push
+	cd _gh-pages && git add -A && git commit -am "automatic publish" && git push
 
 serve:
 	docker run \
