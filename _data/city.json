@@ -62,5 +62,32 @@
     "image": "https://islandpress.org/sites/default/files/9781610918961.jpg",
     "more": "https://islandpress.org/books/ground"
   },
+  {
+    "id": "aufochs2013",
+    "abstract": "Superstorm Sandy sent a strong message that a new generation of urban development and infrastructure is desperately needed, and it must be designed with resilience in mind. As cities continue to face climate change impacts while growing in population, they find themselves at the center of resilience and green city solutions, yet political and budgetary obstacles threaten even the best-planned initiatives. In The Guide to Greening Cities, seasoned green city leaders Sadhu Johnston, Steven Nicholas, and Julia Parzen use success stories from across North America to show how to turn a green city agenda into reality. <br/> The Guide to Greening Cities is the first book written from the perspective of municipal leaders with successful, on-the-ground experience working to advance green city goals. Through personal reflections and interviews with leading municipal staff in cities from San Antonio to Minneapolis, the authors share lessons for cities to lead by example in their operations, create programs, implement high-priority initiatives, develop partnerships, measure progress, secure funding, and engage the community. Case studies and chapters highlight strategies for overcoming common challenges such as changes of leadership and fiscal austerity. The book is augmented by a companion website, launching with the publication of the book, which offers video interviews of municipal leaders, additional case studies, and other resources. <br/>     Rich in tools, insights, and tricks of the trade, The Guide to Greening Cities helps professionals, policymakers, community leaders, and students understand which approaches have worked and why and demonstrates multidisciplinary solutions for creating healthy, just, and green communities.",
+    "author": "Sadhu Aufochs",
+    "title": "The Guide to Greening Cities",
+    "year": "2013",
+    "image": "https://islandpress.org/sites/default/files/BookCovers/9781610913768.jpg",
+    "more": "https://islandpress.org/books/guide-greening-cities"
+  },
+  {
+    "id": "walker2011",
+    "abstract": "Public transit is a powerful tool for addressing a huge range of urban problems, including traffic congestion and economic development as well as climate change. But while many people support transit in the abstract, it's often hard to channel that support into good transit investments.  Part of the problem is that transit debates attract many kinds of experts, who often talk past each other.  Ordinary people listen to a little of this and decide that transit is impossible to figure out. <br/> Jarrett Walker believes that transit can be simple, if we focus first on the underlying geometry that all transit technologies share. In Human Transit, Walker supplies the basic tools, the critical questions, and the means to make smarter decisions about designing and implementing transit services. <br/> Human Transit explains the fundamental geometry of transit that shapes successful systems; the process for fitting technology to a particular community; and the local choices that lead to transit-friendly development. Whether you are in the field or simply a concerned citizen, here is an accessible guide to achieving successful public transit that will enrich any community.",
+    "author": "Jarrett Walker",
+    "title": "Human Transit: How Clearer Thinking about Public Transit Can Enrich Our Communities and Our Lives",
+    "year": "2011",
+    "image": "https://islandpress.org/sites/default/files/BookCovers/9781597269711.jpg",
+    "more": "https://humantransit.org/book"
+  },
+  {
+    "id": "alexander1977",
+    "abstract": "A Pattern Language: Towns, Buildings, Construction is a 1977 book on architecture, urban design, and community livability. It was authored by Christopher Alexander, Sara Ishikawa and Murray Silverstein of the Center for Environmental Structure of Berkeley, California, with writing credits also to Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel. Decades after its publication, it is still one of the best-selling books on architecture. <br/> The book creates a new language, what the authors call a pattern language derived from timeless entities called patterns. As they write on page xxxv of the introduction, 'All 253 patterns together form a language.' Patterns describe a problem and then offer a solution. In doing so the authors intend to give ordinary people, not only professionals, a way to work with their neighbors to improve a town or neighborhood, design a house for themselves or work with colleagues to design an office, workshop, or public building such as a school.",
+    "author": "Christopher Alexander, Sara Ishikawa, and Murray Silverstein",
+    "title": "A Pattern Language: Towns, Buildings, Construction",
+    "year": "1977",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/A_Pattern_Language.jpg",
+    "more": "https://en.wikipedia.org/wiki/A_Pattern_Language"
+  },
 
 ]

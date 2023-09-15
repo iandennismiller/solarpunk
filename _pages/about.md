@@ -22,7 +22,15 @@ To add books to a list, consider submitting a pull request directly on github.
 
 ## Sources
 
-Most of the titles found on this site were collected from the following:
+Most of the titles found on this site were collected from these sources:
 
 - [https://old.reddit.com/r/solarpunk/](https://old.reddit.com/r/solarpunk/)
+- [https://old.reddit.com/r/solarpunk/wiki/media](https://old.reddit.com/r/solarpunk/wiki/media)
+- [https://old.reddit.com/r/solarpunk/wiki/media/media_nonfiction](https://www.reddit.com/r/solarpunk/wiki/media/media_nonfiction)
+- [https://old.reddit.com/r/solarpunk/wiki/media/books_fiction](https://www.reddit.com/r/solarpunk/wiki/media/books_fiction)
 - [https://best-sci-fi-books.com/16-best-solarpunk-books/](https://best-sci-fi-books.com/16-best-solarpunk-books/)
+- [https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965)
+- [https://slrpnk.net/](https://slrpnk.net/)
+- [https://raddle.me/f/solarpunk](https://raddle.me/f/solarpunk)
+- [https://wt.social/wt/solarpunk](https://wt.social/wt/solarpunk)
+- [https://www.appropedia.org/Welcome_to_Appropedia](https://www.appropedia.org/Welcome_to_Appropedia)

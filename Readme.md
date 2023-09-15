@@ -81,9 +81,9 @@ https://iandennismiller.github.io/solarpunk/
 - [x] Building the Cycling City: The Dutch Blueprint for Urban Vitality - by Melissa Bruntlett
 - [x] Design for an Empathic World: Reconnecting People, Nature, and Self - by Sim Van der Ryn
 - [x] From the Ground Up - Local Efforts to Create Resilient Cities - by Alison Sant
-- [ ] The Guide to Greening Cities - by Sadhu Aufochs
-- [ ] Human Transit: How Clearer Thinking about Public Transit Can Enrich Our Communities and Our Lives - by Jarrett Walker
-- [ ] A Pattern Language: Towns, Buildings, Construction - by Christopher Alexander, Sara Ishikawa, and Murray Silverstein
+- [x] The Guide to Greening Cities - by Sadhu Aufochs
+- [x] Human Transit: How Clearer Thinking about Public Transit Can Enrich Our Communities and Our Lives - by Jarrett Walker
+- [x] A Pattern Language: Towns, Buildings, Construction - by Christopher Alexander, Sara Ishikawa, and Murray Silverstein
 - [ ] The Permaculture City - by Toby Hemenway
 - [ ] Planning for Community Resilience: A Handbook for Reducing Vulnerability to Disasters - by Jaimie Hicks Masterson
 - [ ] Retrosuburbia - by David Holmgren
