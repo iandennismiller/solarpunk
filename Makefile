@@ -11,10 +11,8 @@ all: clean build publish
 	@echo ok
 
 publish:
-	rsync -av --delete --checksum _site/ docs/
-	git add docs
-	git commit -m "automatic publish"
-	git push
+	rsync -av --delete --checksum --exclude .git _site/ _gh-pages/
+	cd _gh-pages && git commit -am "automatic publish" && git push
 
 serve:
 	docker run \

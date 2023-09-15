@@ -5,4 +5,4 @@
 /.bundle/
 .DS_Store
 Gemfile.lock
-/gh-pages
+/_gh-pages

@@ -93,9 +93,9 @@ https://iandennismiller.github.io/solarpunk/
 
 ## Setup Notes
 
+Initialize the _gh-pages branch to support the publishing workflow.
+
 ```bash
-mkdir gh-pages
-cd gh-pages
-git clone git@github.com:iandennismiller/solarpunk.git .
-git checkout origin/gh-pages -b gh-pages
+echo /_gh-pages >> .gitignore
+git clone git@github.com:iandennismiller/solarpunk.git -b gh-pages _gh-pages
 ```
