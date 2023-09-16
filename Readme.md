@@ -82,12 +82,12 @@ I wanted to make something simple to navigate, while providing a little bit of i
 - [x] The Guide to Greening Cities - by Sadhu Aufochs
 - [x] Human Transit: How Clearer Thinking about Public Transit Can Enrich Our Communities and Our Lives - by Jarrett Walker
 - [x] A Pattern Language: Towns, Buildings, Construction - by Christopher Alexander, Sara Ishikawa, and Murray Silverstein
-- [ ] The Permaculture City - by Toby Hemenway
-- [ ] Planning for Community Resilience: A Handbook for Reducing Vulnerability to Disasters - by Jaimie Hicks Masterson
-- [ ] Retrosuburbia - by David Holmgren
-- [ ] The Smart Growth Manual - by Andrés Duany, Jeff Speck, and Mike Lydon
-- [ ] Soft City: Building Density for Everyday Life - by David Sim
-- [ ] Sustainable Stormwater Management - A Landscape-Driven Approach to Planning and Design - by Thomas W. Liptan with J. David Sante
+- [x] The Permaculture City - by Toby Hemenway
+- [x] Planning for Community Resilience: A Handbook for Reducing Vulnerability to Disasters - by Jaimie Hicks Masterson
+- [x] Retrosuburbia - by David Holmgren
+- [x] The Smart Growth Manual - by Andrés Duany, Jeff Speck, and Mike Lydon
+- [x] Soft City: Building Density for Everyday Life - by David Sim
+- [x] Sustainable Stormwater Management - A Landscape-Driven Approach to Planning and Design - by Thomas W. Liptan with J. David Sante
 
 ## Setup Notes
 
