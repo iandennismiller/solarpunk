@@ -64,12 +64,12 @@ I wanted to make something simple to navigate, while providing a little bit of i
 - [x] Farming While Black: Soul Fire Farm’s Practical Guide to Liberation on the Land - by Leah Penniman
 - [x] The Forest Garden Greenhouse - How to Design and Manage an Indoor Permaculture Oasis - by Jerome Osentowski
 - [x] Gaia’s Garden - by Toby Hemenway
-- [ ] The Holistic Orchard Tree Fruits and Berries the Biological Way - by Michael Phillips
-- [ ] Native American Gardening: Buffalobird-Woman’s Guide to Traditional Methods - by Gilbert Wilson
-- [ ] The New Organic Grower, 3rd Edition - A Master’s Manual of Tools and Techniques for the Home and Market Gardener - by Elliot Coleman
-- [ ] The Reference Manual of Woody Plant Propagation - From Seed to Tissue Culture, Second Edition - by Michael A. Dirr and Charles W. Heuser, Jr.
+- [x] The Holistic Orchard Tree Fruits and Berries the Biological Way - by Michael Phillips
+- [x] Native American Gardening: Buffalobird-Woman’s Guide to Traditional Methods - by Gilbert Wilson
+- [x] The New Organic Grower, 3rd Edition - A Master’s Manual of Tools and Techniques for the Home and Market Gardener - by Elliot Coleman
+- [x] The Reference Manual of Woody Plant Propagation - From Seed to Tissue Culture, Second Edition - by Michael A. Dirr and Charles W. Heuser, Jr.
 - [ ] Any of the Permaculture books by Bill Mollison
-- [ ] Will Bonsall’s Essential Guide to Radical, Self-Reliant Gardening - by Will Bonsall
+- [x] Will Bonsall’s Essential Guide to Radical, Self-Reliant Gardening - by Will Bonsall
 
 ### City
 
