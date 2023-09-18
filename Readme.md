@@ -89,6 +89,50 @@ I wanted to make something simple to navigate, while providing a little bit of i
 - [x] Soft City: Building Density for Everyday Life - by David Sim
 - [x] Sustainable Stormwater Management - A Landscape-Driven Approach to Planning and Design - by Thomas W. Liptan with J. David Sante
 
+### Theory
+
+- [ ] All Our Relations: Native Struggles for Land and Life - by Winona LaDuke
+- [ ] Another Now - by Yanis Varoufakis
+- [ ] Between the World and Me - by Ta-Nehisi Coates
+- [ ] Capital in the Twenty First Century - by Thomas Piketty
+- [ ] This Changes Everything: Capitalism vs. The Climate - by Naomi Klein
+- [ ] Cradle to Cradle - by William McDonough and Michael Braungart
+- [ ] Feminism is for Everybody - by bell hooks
+- [ ] Flourishing: A Frank Conversation About Sustainability - by John R. Ehrenfeld and Andrew J. Hoffman
+- [ ] Freedom Is a Constant Struggle: Ferguson, Palestine, and the Foundations of a Movement - by Angela Y. Davis
+- [ ] The Mindfulness Effect: An Unexpected Path to Healing, Connection and Social Justice - by Dena Samuels
+- [ ] Mutual Aid: Building Solidarity During this Crisis (and the next) - by Dean Spade
+- [ ] Enlightenment and Ecology - edited by Yavor Tarinski
+- [ ] Exploring Degrowth - by Liegegy and Nelson
+- [ ] A People's Green New Deal - by Max Ajl
+- [ ] The Politics of the Solar Age - by Hazel Henderson
+- [ ] Nature's Way: Native Wisdom for Living in Balance with the Earth - by Ed McGaa / Eagle Man
+- [ ] Remaking Society - by Murray Bookchin
+- [ ] Sand Talk: How Indigenous Thinking Can Save the World - by Tyson Yunkaporta
+- [ ] Turning to One Another: Simple Conversations to Restore Hope to the Future - by Margaret Wheatley
+- [ ] Utopian Generations: The Political Horizon of Twentieth-Century - by Nicholas Brown
+- [ ] What's Mine Is Yours: The Rise of Collaborative Consumption - by Rachel Botsman and Roo Rogers
+- [ ] We Do This ‘Til We Free Us: Abolitionist Organizing and Transforming Justice - by Miriame Kaba
+- [ ] Who Cooked the Last Supper: The Women's History of the World - by Rosalind Miles
+
+### Design
+
+- [ ] Adobe Houses: Homes of Sun and Earth - by Kathryn Masson
+- [ ] Building for Life: Designing and Understanding the Human-Nature Connection - by Stephen Kellert
+- [ ] Essential Sustainable Home Design: A Complete Guide to Goals, Options, and the Design Process - by Chris Magwood
+- [ ] Cool Tools: A Catalog of Possibilities - by Kevin Kelly
+- [ ] Earthbag Building: The Tools, Tricks and Techniques - by Kaki Hunter
+- [ ] Fab: The Coming Revolution on Your Desktop--from Personal Computers to Personal Fabrication - by Neil Gershenfeld
+- [ ] The Handbook of Contemporary Indigenous Architecture - edited by Elizabeth Grant
+- [ ] The Hand-Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage - by Ianto Evans
+- [ ] How to Build with Grid Beam: A Fast, Easy and Affordable System for Constructing Almost Anything - by Phil Jergenson, Richard Jergenson, and Wilma Keppel
+- [ ] How to Build Your Own Living Structures - by Ken Isaacs
+- [ ] Lo-TEK: Design by Radical Indigenism - by Julia Watson
+- [ ] Material Ecology - by Neri Oxman
+- [ ] The Passive Solar Primer - by David Wright
+- [ ] The Shelter books - by Louis Khan
+- [ ] The original Whole Earth Catalog - published by Stewart Brand
+
 ## Setup Notes
 
 Initialize the _gh-pages branch to support the publishing workflow.
