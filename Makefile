@@ -7,12 +7,10 @@ help:
 	@echo
 	@grep -h -e '^\w\S\+\:' Makefile _dev/*.mk | sed 's/://g' | cut -d ' ' -f 1
 
-all: clean build publish
-	@echo ok
-
-publish:
+publish: clean build
 	rsync -av --delete --checksum --exclude .git _site/ _gh-pages/
 	cd _gh-pages && git add -A && git commit -am "automatic publish" && git push
+	@echo ok
 
 serve:
 	docker run \

@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Un Manifiesto Solarpunk
-permalink:  /manifesto/español.html
+permalink:  /manifesto/espanol.html
 menu:       none
 image:      /media/thumb-big.jpg
 excerpt:    El solarpunk es un movimiento de ficción especulativa, arte, moda y activismo que intenta contestar y encarnar la pregunta “¿Cómo sería una civilización sostenible y cómo podemos llegar a ella?”

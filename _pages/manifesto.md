@@ -9,9 +9,12 @@ excerpt:    Translations of A Solarpunk Manifesto
 
 *A Solarpunk Manifesto* has been translated into the following languages:
 
-- [English](/solarpunk/manifesto/english.html)
-- [Español](/solarpunk/manifesto/español.html)
-- [Português](/solarpunk/manifesto/português.html)
+- [العربية](/solarpunk/manifesto/arabic.html): بيان سولار بانك
+- [English](/solarpunk/manifesto/english.html): A Solarpunk Manifesto
+- [Español](/solarpunk/manifesto/espanol.html): Un Manifiesto Solarpunk
+- [Português](/solarpunk/manifesto/portugues.html): Um Manifesto Solarpunk
+- [Français](/solarpunk/manifesto/francais.html): Un Manifeste Solarpunk
+- [Italiano](/solarpunk/manifesto/italiano.html): Un Manifesto Solarpunk
 
 These translations were mirrored from [re-des.org](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
 
