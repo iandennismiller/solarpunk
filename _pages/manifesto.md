@@ -10,18 +10,21 @@ excerpt:    Translations of A Solarpunk Manifesto
 *A Solarpunk Manifesto* has been translated into the following languages:
 
 - [العربية](/solarpunk/manifesto/arabic.html): بيان سولار بانك
+- [Deutsch](/solarpunk/manifesto/deutsch.html): Ein Solarpunk-Manifest
 - [English](/solarpunk/manifesto/english.html): A Solarpunk Manifesto
 - [Español](/solarpunk/manifesto/espanol.html): Un Manifiesto Solarpunk
 - [Français](/solarpunk/manifesto/francais.html): Un Manifeste Solarpunk
 - [Italiano](/solarpunk/manifesto/italiano.html): Un Manifesto Solarpunk
 - [Português](/solarpunk/manifesto/portugues.html): Um Manifesto Solarpunk
+- [Siciliano Formale](/solarpunk/manifesto/siciliano-formale.html): Nu Manifestu Solarpunk
+- [Siciliano Inormale](/solarpunk/manifesto/siciliano-informale.html): Stu Manifestu Solarpunk
 
 These translations were mirrored from [re-des.org](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
 
 {% comment %}
 - [x] [العربية (Arabic)](/solarpunk/manifesto/.html)
 - [ ] [Català](/solarpunk/manifesto/.html)
-- [ ] [Deutsch](/solarpunk/manifesto/.html)
+- [x] [Deutsch](/solarpunk/manifesto/.html)
 - [x] [English](/solarpunk/manifesto/.html)
 - [x] [Español](/solarpunk/manifesto/.html)
 - [ ] [Euskera](/solarpunk/manifesto/.html)
@@ -33,6 +36,7 @@ These translations were mirrored from [re-des.org](http://www.re-des.org/un-mani
 - [ ] [Magyar](/solarpunk/manifesto/.html)
 - [x] [Português](/solarpunk/manifesto/.html)
 - [ ] [Polski](/solarpunk/manifesto/.html)
+- [x] siciliano
 - [ ] [Slovensky](/solarpunk/manifesto/.html)
 - [ ] [Srpski](/solarpunk/manifesto/.html)
 - [ ] [Svenska](/solarpunk/manifesto/.html)
