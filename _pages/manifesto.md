@@ -17,38 +17,20 @@ excerpt:    Translations of A Solarpunk Manifesto
 - [Euskera](/solarpunk/manifesto/euskera.html): Solarpunk Manifestu Bat
 - [Français](/solarpunk/manifesto/francais.html): Un Manifeste Solarpunk
 - [Galego](/solarpunk/manifesto/galego.html): Un Manifesto Solarpunk
-- [עִברִית ](/solarpunk/manifesto/hebrew.html): 
+- [עִברִית ](/solarpunk/manifesto/hebrew.html): מניפסט סולארפאנק
 - [Italiano](/solarpunk/manifesto/italiano.html): Un Manifesto Solarpunk
 - [日本語](/solarpunk/manifesto/japanese.html): ソーラーパンク・マニフェスト
+- [Magyar](/solarpunk/manifesto/magyar.html): Egy Solarpunk Manifesztó
 - [Português](/solarpunk/manifesto/portugues.html): Um Manifesto Solarpunk
 - [Polski](/solarpunk/manifesto/polski.html): Manifest Solarpunka
 - [Siciliano Formale](/solarpunk/manifesto/siciliano-formale.html): Nu Manifestu Solarpunk
 - [Siciliano Inormale](/solarpunk/manifesto/siciliano-informale.html): Stu Manifestu Solarpunk
+- [Slovensky](/solarpunk/manifesto/slovensky.html): Solarpunkový manifest
+- [Srpski](/solarpunk/manifesto/srpski.html): Solarpank Manifest
 - [Svenska](/solarpunk/manifesto/svenska.html): Ett solarpunkmanifest
+- [Türkçe](/solarpunk/manifesto/turkish.html): Solarpunk Manifestosu
 
 These translations were mirrored from [re-des.org](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
-
-{% comment %}
-- [x] [العربية (Arabic)](/solarpunk/manifesto/.html)
-- [x] [Català](/solarpunk/manifesto/.html)
-- [x] [Deutsch](/solarpunk/manifesto/.html)
-- [x] [English](/solarpunk/manifesto/.html)
-- [x] [Español](/solarpunk/manifesto/.html)
-- [x] [Euskera](/solarpunk/manifesto/.html)
-- [x] [Français](/solarpunk/manifesto/.html)
-- [x] [Galego](/solarpunk/manifesto/.html)
-- [x] [עִברִית (Hebrew)](/solarpunk/manifesto/.html)
-- [x] [Italiano](/solarpunk/manifesto/.html)
-- [x] [日本語 (Japanese)](/solarpunk/manifesto/.html)
-- [ ] [Magyar](/solarpunk/manifesto/.html)
-- [x] [Português](/solarpunk/manifesto/.html)
-- [x] [Polski](/solarpunk/manifesto/.html)
-- [x] siciliano
-- [ ] [Slovensky](/solarpunk/manifesto/.html)
-- [ ] [Srpski](/solarpunk/manifesto/.html)
-- [x] [Svenska](/solarpunk/manifesto/.html)
-- [ ] [Türkçe](/solarpunk/manifesto/.html)
-{% endcomment %}
 
 ## About
 
