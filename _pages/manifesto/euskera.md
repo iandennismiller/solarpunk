@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Solarpunk Manifestu Bat
-permalink:  /manifesto/.html
+permalink:  /manifesto/euskera.html
 menu:       none
 image:      /media/thumb-big.jpg
 excerpt:    Solarpunka fikzio espekulatibo, arte, moda eta aktibismo mugimendu bat da, eta galdera hau erantzuten eta gorpuzten saiatzen da, «Nolakoa izango litzateke zibilizazio jasangarri bat eta nola irits gaitezke horretara?»
