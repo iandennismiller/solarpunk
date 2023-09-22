@@ -7,7 +7,7 @@ image:      /media/thumb-big.jpg
 excerpt:    I hope this will be a good reference for people seeking to discover Solarpunk readings.
 ---
 
-![]({{ site.baseurl }}/media/headers/aerial-6.jpg)
+![Aerial view of Solarpunk City](../media/headers/aerial-6.jpg)
 
 I hope this will be a good reference for people seeking to discover Solarpunk readings.
 I began this project because I was inspired by online discussions that produced expertly-curated book lists of Solarpunk literature.

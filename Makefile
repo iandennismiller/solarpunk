@@ -15,7 +15,7 @@ serve:
 clean:
 	$(JEKYLL_CMD) $(JEKYLL_IMAGE) /bin/bash -c 'bundle exec jekyll clean'
 
-incremental: clean
+incremental:
 	$(JEKYLL_CMD) $(JEKYLL_IMAGE) \
 		/bin/bash -c 'JEKYLL_ENV=production bundle exec jekyll build --incremental'
 

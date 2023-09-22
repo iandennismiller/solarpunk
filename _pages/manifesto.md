@@ -7,7 +7,7 @@ image:      /media/thumb-big.jpg
 excerpt:    Translations of A Solarpunk Manifesto
 ---
 
-![]({{ site.baseurl }}/media/headers/aerial-4.jpg)
+![Aerial view of Solarpunk City](../media/headers/aerial-4.jpg)
 
 *A Solarpunk Manifesto* has been translated into the following languages:
 
