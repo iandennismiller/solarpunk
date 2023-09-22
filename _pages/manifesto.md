@@ -41,3 +41,8 @@ These translations were mirrored from [re-des.org](http://www.re-des.org/un-mani
 > This Solarpunk Manifesto is a creative re-adaptation of ideas about solarpunk written by many people. These ideas can be mainly found in [Solarpunk: a reference guide](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) and in [Solarpunk: Notes towards a Manifesto by Adam Flynn](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/).
 
 via [re-des.org](http://www.re-des.org/a-solarpunk-manifesto/)
+
+## Contributing
+
+If you are able to contribute a translation, please start by [reading about the git repository](https://iandennismiller.github.io/solarpunk/about/).
+In particular, I believe Asia is under-represented in this list.

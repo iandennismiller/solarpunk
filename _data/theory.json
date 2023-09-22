@@ -44,5 +44,32 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Solarpunk_Flag.jpg",
     "more": "http://www.re-des.org/a-solarpunk-manifesto/"
   },
+  {
+    "id": "laduke2016",
+    "abstract": "A beautiful and daring vision of political, spiritual, and ecological transformation. <br/> Haymarket Books proudly brings back into print Winona LaDuke's seminal work of Native resistance to oppression. <br/> This thoughtful, in-depth account of Native struggles against environmental and cultural degradation features chapters on the Seminoles, the Anishinaabeg, the Innu, the Northern Cheyenne, and the Mohawks, among others. Filled with inspiring testimonies of struggles for survival, each page of this volume speaks forcefully for self-determination and community.",
+    "author": "Winona LaDuke",
+    "title": "All Our Relations: Native Struggles for Land and Life",
+    "year": "2016",
+    "image": "https://images.squarespace-cdn.com/content/v1/564bb58ee4b0c7323ecf49d1/1574640060432-GTYNIP07GEPDGO1LV87E/Screen+Shot+2019-11-24+at+6.00.47+PM.png?format=1500w",
+    "more": "https://www.winonaladuke.com/books/allourrelations"
+  },
+  {
+    "id": "varoufakis2021",
+    "abstract": "What would a fair and equal society actually look like? The world-renowned economist and bestselling author Yanis Varoufakis presents his radical and subversive answer in a work of speculative fiction that recalls William Morris and William Gibson. <br/> The year: 2035. <br/> At a funeral for Iris, a revolutionary leftist feminist, Yango is approached by Costa, Iris’s closest comrade, who urges him to carry out Iris’s last wish: plough into her secret diaries to tell their story. “But”, Costa insists “leave out anything that might help Big Tech replicate my technologies!” <br/> That night Yango delves into Iris’s diaries. In them he discovers a chronicle of how Costa’s revolutionary technologies had unveiled an actually existing, fully democratized, postcapitalist society. Suddenly he understands Costa’s obsession with the hackers trying to steal his secrets. <br/> So begins Yanis Varoufakis’s extraordinary novelistic thought-experiment, where the world-famous economist offers an invigorating and deeply moving vision of an alternative reality. <br/> Another Now tells the story of Costa, a brilliant but deeply disillusioned, computer engineer, who creates a revolutionary technology that will allow the user a “glimpse of a life beyond their dreams” but will not enslave them. But an accident during one of its trial runs unveils a cosmic wormhole where Costa meets his DNA double, who is living in a 2025 very different than the one Costa is living in.  <br/> In this parallel 2025 a global hi-tech uprising, begun in the wake of the collapse of 2008, has birthed a post-capitalist world in which work, money, land, digital networks and politics have been truly democratized. Banks have been eliminated, as well as predatory, data-mining digital monopolies; the gig economy is no more; and the young are free to experiment with different careers and to study ”non-lucrative topics, from Sumerian pottery to astrophysics.” <br/> Intoxicated, Costa travels to England to tell Iris, his old comrade, and her neighbor, Eva, a recovering banker turned neoliberal economics professor, of the parallel universe he has discovered. Costa eventually leads them back to his workshop in America where Iris and Eva meet their own doubles, and confront hard truths about themselves and the daunting political challenge that “the Other Now” presents. <br/> But, as their obsession with the Other Now deepens, time begins to run out, as the wormhole begins to deteriorate and hackers begin to unleash new attacks on Costa’s technology. The trio have to make a choice: which 2025 do they want to live in? <br/> Varoufakis has been claiming for a while that we already live in postcapitalist times. That, since the 2008 crisis, capitalism has been morphing into technofeudalism. Another Now, a riveting work of speculative fiction, shows that there is a realistic, democratic alternative to the technofeudalpostcapitalist dystopia taking shape all around us. It also confronts us with the greatest question: how far are we willing to go to bring it about?",
+    "author": "Yanis Varoufakis",
+    "title": "Another Now",
+    "year": "2021",
+    "image": "https://images2.penguinrandomhouse.com/cover/9781612199573",
+    "more": "https://www.penguinrandomhouse.com/books/696968/another-now-by-yanis-varoufakis/"
+  },
+  {
+    "id": "coates2015",
+    "abstract": "Between the World and Me is a 2015 nonfiction book written by American author Ta-Nehisi Coates and published by Spiegel & Grau. It was written by Coates as a letter to his then-teenage son about his perception of what the feelings, symbolism, and realities associated with being Black in the United States are. Coates recapitulates American history and explains to his son 'racist violence that has been woven into American culture.' Coates draws from an abridged, autobiographical account of his youth in Baltimore, detailing his beliefs about what are the ways in which, to him, institutions like schools, the local police, and even 'the streets' discipline, endanger, and threaten to 'disembody' black men and women. <br/> The work takes structural and thematic inspiration from James Baldwin's 1963 epistolary book The Fire Next Time. Unlike Baldwin, however, Coates views white supremacy as 'an indestructible force, one that Black Americans will never evade or erase, but will always struggle against.' <br/> The novelist Toni Morrison praised the book, in that Coates 'filled an intellectual gap in succession to James Baldwin.' Editors of The New York Times and The New Yorker described the book as 'exceptional.' The book won the 2015 National Book Award for Nonfiction and was a finalist for the 2016 Pulitzer Prize for General Non-Fiction.",
+    "author": "Ta-Nehisi Coates",
+    "title": "Between the World and Me",
+    "year": "2015",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Between_the_World_and_Me.jpeg",
+    "more": "https://en.wikipedia.org/wiki/Between_the_World_and_Me"
+  },
 
 ]

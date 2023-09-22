@@ -91,9 +91,9 @@ I wanted to make something simple to navigate, while providing a little bit of i
 
 ### Theory
 
-- [ ] All Our Relations: Native Struggles for Land and Life - by Winona LaDuke
-- [ ] Another Now - by Yanis Varoufakis
-- [ ] Between the World and Me - by Ta-Nehisi Coates
+- [x] All Our Relations: Native Struggles for Land and Life - by Winona LaDuke
+- [x] Another Now - by Yanis Varoufakis
+- [x] Between the World and Me - by Ta-Nehisi Coates
 - [ ] Capital in the Twenty First Century - by Thomas Piketty
 - [ ] This Changes Everything: Capitalism vs. The Climate - by Naomi Klein
 - [ ] Cradle to Cradle - by William McDonough and Michael Braungart

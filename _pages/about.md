@@ -20,14 +20,16 @@ Then, by gathering a description and cover art, we've made it much simpler to le
 ## Contributing
 
 If you would like to contribute, please start by checking out the [source code](https://github.com/iandennismiller/solarpunk/).
-To add books to a list, consider submitting a pull request directly on github.
+The raw book list data are represented as JSON in [_data/](https://github.com/iandennismiller/solarpunk/tree/main/_data).
+To add books to a list, consider submitting a pull request directly on github that changes the relevant JSON file.
+Please refer to [the JSON template](https://github.com/iandennismiller/solarpunk/tree/main#json-template) in the Readme to learn how to construct new entries.
 
 ## Sources
 
 Most of the titles found on this site were collected from these sources:
 
+- [https://re-des.org](https://re-des.org)
 - [https://old.reddit.com/r/solarpunk/](https://old.reddit.com/r/solarpunk/)
-- [https://old.reddit.com/r/solarpunk/wiki/media](https://old.reddit.com/r/solarpunk/wiki/media)
 - [https://old.reddit.com/r/solarpunk/wiki/media/media_nonfiction](https://www.reddit.com/r/solarpunk/wiki/media/media_nonfiction)
 - [https://old.reddit.com/r/solarpunk/wiki/media/books_fiction](https://www.reddit.com/r/solarpunk/wiki/media/books_fiction)
 - [https://best-sci-fi-books.com/16-best-solarpunk-books/](https://best-sci-fi-books.com/16-best-solarpunk-books/)
