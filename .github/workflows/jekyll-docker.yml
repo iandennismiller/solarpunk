@@ -8,9 +8,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Build the site in the iandennismiller/jekyll container
@@ -24,13 +22,31 @@ jobs:
           -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           iandennismiller/jekyll:latest \
           /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future" && \
-        git clone "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" -b gh-pages _gh-pages && \
+        echo 'OK' 
+  get-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        repository: iandennismiller/solarpunk@gh-pages
+        path: _gh-pages
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Deploy the site to the gh-pages branch
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+        GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+      run: |
         rsync -av --delete --checksum --exclude .git _site/ _gh-pages/ && \
         cd _gh-pages && \
-        git config user.name "${GITHUB_ACTOR}" && \
-        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
         git add -A && \
         git commit -am "action publish" && \
-        git push
-        cd ../
-        echo 'OK'
+        git push && \
+        echo 'OK' 
+    
+# git clone "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" -b gh-pages _gh-pages && \
+# git config user.name "${GITHUB_ACTOR}" && \
+# git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
