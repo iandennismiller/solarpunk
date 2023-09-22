@@ -20,9 +20,11 @@ jobs:
         GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
       run: |
         docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        iandennismiller/jekyll:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future" && \
-        cd build && \
+          -v ${{ github.workspace }}:/srv/jekyll \
+          -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          iandennismiller/jekyll:latest \
+          /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future" && \
+        cd ${{ github.workspace }}/_site && \
         remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" && \
         remote_branch="gh-pages" && \
         git init && \
