@@ -27,9 +27,10 @@ jobs:
         git clone "https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" -b gh-pages _gh-pages && \
         rsync -av --delete --checksum --exclude .git _site/ _gh-pages/ && \
         cd _gh-pages && \
+        git config user.name "${GITHUB_ACTOR}" && \
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
         git add -A && \
-        git commit -am "automatic publish" && \
+        git commit -am "action publish" && \
         git push
         cd ../
-        echo '👍 GREAT SUCCESS!'
-
+        echo 'OK'
