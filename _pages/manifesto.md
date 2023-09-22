@@ -32,13 +32,15 @@ excerpt:    Translations of A Solarpunk Manifesto
 - [Svenska](/solarpunk/manifesto/svenska.html): Ett solarpunkmanifest
 - [Türkçe](/solarpunk/manifesto/turkish.html): Solarpunk Manifestosu
 
-These translations were mirrored from [re-des.org](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/).
-
 ## About
+
+via [re-des.org](http://www.re-des.org/a-solarpunk-manifesto/):
 
 > This Solarpunk Manifesto is a creative re-adaptation of ideas about solarpunk written by many people. These ideas can be mainly found in [Solarpunk: a reference guide](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) and in [Solarpunk: Notes towards a Manifesto by Adam Flynn](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/).
 
-via [re-des.org](http://www.re-des.org/a-solarpunk-manifesto/).
+## Sources
+
+Most of these translations were mirrored from [re-des.org](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/).
 
 ## Contributing
 
