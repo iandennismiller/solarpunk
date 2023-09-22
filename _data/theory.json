@@ -71,5 +71,14 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Between_the_World_and_Me.jpeg",
     "more": "https://en.wikipedia.org/wiki/Between_the_World_and_Me"
   },
+  {
+    "id": "piketty2013",
+    "abstract": "Capital in the Twenty-First Century (French: Le Capital au XXIe siècle) is a book written by French economist Thomas Piketty. It focuses on wealth and income inequality in Europe and the United States since the 18th century. It was first published in French (as Le Capital au XXIe siècle) in August 2013; an English translation by Arthur Goldhammer followed in April 2014. <br/> The book's central thesis is that when the rate of return on capital (r) is greater than the rate of economic growth (g) over the long term, the result is concentration of wealth, and this unequal distribution of wealth causes social and economic instability. Piketty proposes a global system of progressive wealth taxes to help reduce inequality and avoid the vast majority of wealth coming under the control of a tiny minority. <br/> At the end of 2014, Piketty released a paper where he stated that he does not consider the relationship between the rate of return on capital and the rate of economic growth as the only or primary tool for considering changes in income and wealth inequality. He also noted that r > g is not a useful tool for the discussion of rising inequality of labor income. <br/> On May 18, 2014, the English edition reached number one on The New York Times Best Seller list for best selling hardcover nonfiction and became the greatest sales success ever of academic publisher Harvard University Press. As of January 2015, the book had sold 1.5 million copies in French, English, German, Chinese, and Spanish. <br/> The book has been adapted into a feature documentary film, directed by New Zealand filmmaker Justin Pemberton.",
+    "author": "Thomas Piketty",
+    "title": "Capital in the Twenty First Century",
+    "year": "2013",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Capital_in_the_Twenty-First_Century_%28front_cover%29.jpg",
+    "more": "https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century"
+  },
 
 ]
