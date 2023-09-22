@@ -33,12 +33,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      # - name: Setup Jekyll
-      #   uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
-      #   with:
-      #     ruby-version: '3.1' # Not needed with a .ruby-version file
-      #     bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-      #     cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -51,12 +45,7 @@ jobs:
             /bin/bash -c "\
               chmod -R 777 /srv/jekyll && \
               JEKYLL_ENV=production bundle exec jekyll build" && \
-          echo 'OK' 
-        env:
-          JEKYLL_ENV: production
-      # - name: Build with Jekyll
-      #   # Outputs to the './_site' directory by default
-      #   run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+          echo 'OK'
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
